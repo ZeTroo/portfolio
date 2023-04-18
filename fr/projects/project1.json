@@ -1,6 +1,6 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/harveel/harveel-banner.png",
-  "name": "Projet 1",
+  "banner": "https://github.com/ZeTro-dev/portfolio/blob/main/.assets/images/Cover.png",
+  "name": "Lolite",
   "tags": [
     "tag1",
     "tag2",
@@ -10,7 +10,7 @@
   ],
   "contents": [
     {
-      "type": "Title",
+      "type": "Lolite",
       "title": "Projet 1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
       "tags": [
