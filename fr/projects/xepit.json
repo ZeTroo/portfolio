@@ -1,18 +1,14 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/lolite/cover.png",
-  "name": "Lolite",
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/xepit/cover.png",
+  "name": "Xepite",
   "tags": [
-    "tag1",
-    "tag2",
-    "tag1",
-    "tag2",
-    "tag3"
+    "Logotype"
   ],
   "contents": [
     {
-      "type": "Lolite",
-      "title": "Projet 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
+      "type": "Xepit",
+      "title": "Charte graphique pour \"Xepit\"",
+      "description": "Discord multifonction pour améliorer l'expérience utilisateur sur le serveur. Fonctionnalités incluent messages d'accueil, gestion des rôles et des permissions, planification d'événements, musique, etc. Automatisation de tâches et amélioration de la qualité de vie sur le serveur.",
       "tags": [
         "tag1",
         "tag2",
@@ -20,7 +16,7 @@
         "tag2",
         "tag3"
       ],
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/xepit/logo.svg"
     },
     {
       "type": "BasicText",
