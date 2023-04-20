@@ -1,5 +1,5 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/harveel/harveel-banner.png",
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/glm/cover.png",
   "name": "Projet 2",
   "tags": [
     "tag1",
@@ -20,7 +20,7 @@
         "tag2",
         "tag3"
       ],
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/glm/logo.png"
     },
     {
       "type": "BasicText",
