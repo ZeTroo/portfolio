@@ -1,5 +1,5 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/glm/cover.png",
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png",
   "name": "Projet 2",
   "tags": [
     "tag1",
@@ -20,7 +20,7 @@
         "tag2",
         "tag3"
       ],
-      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/glm/logo.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
     },
     {
       "type": "BasicText",
