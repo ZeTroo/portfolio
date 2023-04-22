@@ -7,14 +7,10 @@
   "contents": [
     {
       "type": "Title",
-      "title": "Charte graphique pour \"Xepit\"",
+      "title": "Charte graphique pour Xepit",
       "description": "Discord multifonction pour améliorer l'expérience utilisateur sur le serveur. Fonctionnalités incluent messages d'accueil, gestion des rôles et des permissions, planification d'événements, musique, etc. Automatisation de tâches et amélioration de la qualité de vie sur le serveur.",
       "tags": [
-        "tag1",
-        "tag2",
-        "tag1",
-        "tag2",
-        "tag3"
+        "Logotype"
       ],
       "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/xepit/logo.png"
     },

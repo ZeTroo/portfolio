@@ -1,111 +1,63 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/lolite/cover.png",
-  "name": "Lolite",
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/cover.png",
+  "name": "Café Des Devs",
   "tags": [
-    "Charte Graphique"
+    "Charte Graphique",
+    "Communautée"
   ],
   "contents": [
     {
       "type": "Title",
-      "title": "Lolite",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
+      "title": "Café Des Devs",
+      "description": "Le Café Des Devs est une communauté en ligne pour les développeurs qui cherchent à s'entraider et à partager leurs connaissances.",
       "tags": [
-        "tag1",
-        "tag2",
-        "tag1",
-        "tag2",
-        "tag3"
+        "Charte Graphique",
+        "Communautée"
+
       ],
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/logo.png"
     },
     {
       "type": "BasicText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "ImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Présentation",
+      "text": "Le Café Des Devs est une communauté en ligne pour les développeurs qui cherchent à s'entraider et à partager leurs connaissances. Créé le 23 janvier 2021 par zetro, ce projet a connu une croissance rapide depuis son lancement. Aujourd'hui, le Café Des Devs compte plus de 1500 membres sur son serveur Discord, ce qui en fait l'une des communautés de développement les plus actives et les plus dynamiques sur le web. Que vous cherchiez des conseils, des ressources ou simplement un endroit pour discuter avec d'autres développeurs passionnés, le Café Des Devs est l'endroit idéal pour vous."
     },
     {
       "type": "BigImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Nos Mascottes",
+      "text": "Nous avions choisi de représenter la communauté des développeurs à travers des petites mascottes de café. Ces emotes de café ont été créées pour représenter les différentes expressions de la communauté, allant de la joie à la frustration en passant par la concentration. Le choix des emotes de café n'est pas anodin. Tout d'abord, cela représente le nom de la communauté. Mais en plus de cela, les développeurs sont souvent associés à la consommation de café, ce qui rend ces mascottes encore plus représentatives de la communauté. Les emotes de café sont devenues une partie intégrante de l'identité visuelle de Café Des Devs et sont utilisées pour exprimer les émotions lors des conversations en ligne.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/emotes.png"
     },
     {
-      "type": "ProjectSkill",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius.",
-      "skills": [
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        }
-      ]
+      "type": "Warning",
+      "title": "Tout droits réservés",
+      "text": "Toutes les créations associées à Café Des Devs, y compris les logos, les emotes, les bannières, les documents et autres contenus, sont protégées par une licence de propriété intellectuelle. Toute utilisation de ces créations à des fins commerciales sans l'autorisation explicite de Café Des Devs est strictement interdite et peut entraîner des poursuites judiciaires. Nous prenons la protection de nos créations très au sérieux et nous nous réservons le droit de prendre les mesures légales appropriées pour protéger nos droits de propriété intellectuelle. Nous invitons les personnes intéressées à utiliser nos créations à nous contacter à cette adresse : contact@cafedesdevs.fr pour obtenir l'autorisation nécessaire."
+    },
+    {
+      "type": "ImageText",
+      "title": "Dev-Conquest",
+      "text": "Le \"Dev-Conquest\" est un concours de programmation organisé par le Café Des Devs, une communauté en ligne pour les développeurs. Les participants ont l'opportunité de relever des défis stimulants, quel que soit leur niveau de compétence ou leur langage de programmation. Des prix incroyables sont offerts grâce à la générosité des sponsors impliqués dans l'événement. Les développeurs peuvent rejoindre ce concours pour tester leurs compétences et tenter de gagner des cadeaux fantastiques. C'est une occasion de se mesurer aux autres développeurs et de se faire remarquer par les sponsors.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/dev-conquest.png"
     },
     {
       "type": "Contributor",
-      "title": "Blabla",
+      "title": "Les créateurs",
       "contributors": [
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
           "name": "Zetro",
           "tags": [
-            "Designer",
-            "Graphiste"
+            "Propriétaire"
           ]
         },
         {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
+          "name": "Oneil Walsh",
           "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
+            "Fondateur"
           ]
         }
       ]
-    },
-    {
-      "type": "Warning",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Error",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Information",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
     },
     {
       "type": "ExternalLinks",
@@ -114,17 +66,12 @@
         {
           "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
           "name": "Site Web",
-          "link": "https://google.com"
+          "link": "https://cafedesdevs.fr"
         },
         {
           "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
           "name": "Discord",
-          "link": "https://google.com"
-        },
-        {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
-          "name": "Behance",
-          "link": "https://google.com"
+          "link": "https://discord.gg/cafedesdevs"
         }
       ]
     }
