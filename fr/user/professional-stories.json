@@ -1,51 +1,55 @@
-[
-  {
-    "company": "UmboFrance",
-    "date": "Nov 2022 - Janv 2023 · Temps partiel",
-    "location": "Paris, France",
-    "title": "Graphiste",
-    "content": [
-      "Conception de A à  Z de la charte graphique de la marque.",
-      "Élaboration d’une Direction artistiques atractive pour le domaine.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    ],
-    "tags": [
-      "Charte Graphique",
-      "Logo"
-    ]
-  },
-  {
-    "company": "company2",
-    "date": "Nov 2022 - Janv 2023 · Temps partiel",
-    "location": "Paris, France",
-    "title": "Graphiste2",
-    "content": [
-      "Conception de A à  Z de la charte graphique de la marque.",
-      "Élaboration d’une Direction artistiques atractive pour le domaine.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    ],
-    "tags": [
-      "Charte Graphique",
-      "Logo"
-    ]
-  },
-  {
-    "company": "company3",
-    "date": "Nov 2022 - Janv 2023 · Temps partiel",
-    "location": "Paris, France",
-    "title": "Graphiste3",
-    "content": [
-      "Conception de A à  Z de la charte graphique de la marque.",
-      "Élaboration d’une Direction artistiques atractive pour le domaine.",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    ],
-    "tags": [
-      "Charte Graphique",
-      "Logo"
-    ]
-  }
-]
+{
+  "title": "Expériences de travail",
+  "subTitle": "PARCROUS PROFESSIONNEL",
+  "stories": [
+    {
+      "company": "UmboFrance",
+      "date": "Nov 2022 - Janv 2023 · Temps partiel",
+      "location": "Paris, France",
+      "title": "Graphiste",
+      "content": [
+        "Conception de A à  Z de la charte graphique de la marque.",
+        "Élaboration d’une Direction artistiques atractive pour le domaine.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      ],
+      "tags": [
+        "Charte Graphique",
+        "Logo"
+      ]
+    },
+    {
+      "company": "company2",
+      "date": "Nov 2022 - Janv 2023 · Temps partiel",
+      "location": "Paris, France",
+      "title": "Graphiste2",
+      "content": [
+        "Conception de A à  Z de la charte graphique de la marque.",
+        "Élaboration d’une Direction artistiques atractive pour le domaine.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      ],
+      "tags": [
+        "Charte Graphique",
+        "Logo"
+      ]
+    },
+    {
+      "company": "company3",
+      "date": "Nov 2022 - Janv 2023 · Temps partiel",
+      "location": "Paris, France",
+      "title": "Graphiste3",
+      "content": [
+        "Conception de A à  Z de la charte graphique de la marque.",
+        "Élaboration d’une Direction artistiques atractive pour le domaine.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      ],
+      "tags": [
+        "Charte Graphique",
+        "Logo"
+      ]
+    }
+  ]
+}
