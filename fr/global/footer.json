@@ -7,15 +7,6 @@
   "figma": "https://google.com",
   "shortcut": [
     {
-      "title": "CONTACTEZ-MOI",
-      "content": [
-        {
-          "name": "contact@zetro.fr",
-          "link": "mailto:contact@zetro.fr"
-        }
-      ]
-    },
-    {
       "title": "SUPPORT",
       "content": [
         {
@@ -25,6 +16,15 @@
         {
           "name": "Hébergeur",
           "link": "https://google.com"
+        }
+      ]
+    },
+    {
+      "title": "CONTACTEZ-MOI",
+      "content": [
+        {
+          "name": "contact@zetro.fr",
+          "link": "mailto:contact@zetro.fr"
         }
       ]
     }
