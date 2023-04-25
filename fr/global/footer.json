@@ -4,5 +4,27 @@
   "facebook": "https://google.com",
   "linkedin": "https://google.com",
   "twitter": "https://google.com",
-  "figma": "https://google.com"
+  "figma": "https://google.com",
+  "contact": {
+    "title": "CONTACTEZ-MOI",
+    "content": [
+      {
+        "name": "contact@zetro.fr",
+        "link": "mailto:contact@zetro.fr"
+      }
+    ]
+  },
+  "support": {
+    "title": "SUPPORT",
+    "content": [
+      {
+        "name": "Discord",
+        "link": "https://google.com"
+      },
+      {
+        "name": "Hébergeur",
+        "link": "https://google.com"
+      }
+    ]
+  }
 }
