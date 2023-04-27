@@ -7,6 +7,31 @@
   "figma": "https://google.com",
   "shortcut": [
     {
+      "title": "Navigation",
+      "content": [
+        {
+          "name": "Discord",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        }
+      ]
+    },
+    {
       "title": "SUPPORT",
       "content": [
         {
