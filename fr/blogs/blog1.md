@@ -3,7 +3,7 @@
 %%urlName=article-1%%
 %%tags=Maquette Web,Tips%%
 %%date=2022-10-31%%
-%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus%%  
+%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus%%
 # h1 Heading
 
 ## h2 Heading
