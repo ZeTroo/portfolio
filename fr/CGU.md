@@ -32,5 +32,5 @@ En naviguant sur le site, L’Utilisateur les accepte. L’Utilisateur doit tout
 
 ## Article 8 : Droit applicable et juridiction compétente
 La législation française s'applique au présent contrat. En cas d'absence de résolution amiable d'unlitige né entre les parties, les tribunaux français seront seuls compétents pour en connaître. Pour toute question relative à l’application des présentes CGU, vous pouvez joindre l’éditeur aux coordonnées inscrites à l’Article 1.
-
+</br>
 <p align="center">Date de mise à jour: 02/05/2023</p>
