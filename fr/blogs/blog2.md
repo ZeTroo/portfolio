@@ -1,6 +1,6 @@
 %%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev/icon_1.png%%
 %%name=Guide pour débutants sur adobe illustrator%%
-%%url=article-2%%
+%%urlName=article-2%%
 %%tags=Maquette Web%%
 %%date=2023-10-31%%
 %%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus ...%%
