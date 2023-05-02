@@ -1,5 +1,5 @@
 <h1 align="center">Conditions Générales d’Utilsations</h1>
-</br></br>
+</br>
 <h2 align="center">Article 1 : Les mentions légales</h2>
 <p align="center">L’édition et la direction de la publication du site zetro.fr est assurée par Julien Petit.</br>
 Adresse e-mail: contact@zetro.fr.</br>
