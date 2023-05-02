@@ -3,8 +3,7 @@
 %%url=article-2%%
 %%tags=Maquette Web%%
 %%date=2023-10-31%%
-%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.
-Fusce finibus ...%%
+%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus ...%%
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
