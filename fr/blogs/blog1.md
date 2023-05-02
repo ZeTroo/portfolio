@@ -1,4 +1,4 @@
-%%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev/icon_1.png%%
+%%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png%%
 %%name=Être plus productif avec Notion.%%
 %%urlName=article-1%%
 %%tags=Maquette Web,Tips%%
