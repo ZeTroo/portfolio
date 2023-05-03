@@ -1,7 +1,8 @@
 <h1 align="center">Conditions Générales d’Utilsations</h1>
 <p align="center">Date de mise à jour: 02/05/2023</p>
 </br>
-##Article 1 : Les mentions légales
+
+## Article 1 : Les mentions légales
 L’édition et la direction de la publication du site zetro.fr est assurée par **Julien Petit**.</br>
 Adresse e-mail: **contact@zetro.fr**.</br>
 L'hébergeur du site zetro.fr est la société **Z-Host**.</p>
