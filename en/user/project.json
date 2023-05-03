@@ -1,0 +1,25 @@
+{
+  "title": "Mes oeuvres",
+  "subTitle": "Mes projets",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "Tout",
+      "tags": [
+        "Maquette Web",
+        "Programmation",
+        "Charte Graphique",
+        "Développeur"
+      ]
+    },
+    {
+      "name": "Languages",
+      "clear": "Tout",
+      "tags": [
+        "Javascript",
+        "HTML/CSS",
+        "Python"
+      ]
+    }
+  ]
+}

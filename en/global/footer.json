@@ -1,0 +1,57 @@
+{
+  "resume": "Je suis un designer web UI/UX créatif avec plus de 4 ans d'expérience. Je suis également expérimenté dans les domaines de la conception de logo, de la conception de sites web et de la conception de marque.",
+  "develop": "Developpé par",
+  "facebook": "https://google.com",
+  "linkedin": "https://google.com",
+  "twitter": "https://google.com",
+  "figma": "https://google.com",
+  "shortcut": [
+    {
+      "title": "Navigation",
+      "content": [
+        {
+          "name": "Discord",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "content": [
+        {
+          "name": "Discord",
+          "link": "https://google.com"
+        },
+        {
+          "name": "Hébergeur",
+          "link": "https://google.com"
+        }
+      ]
+    },
+    {
+      "title": "Contactez-moi",
+      "content": [
+        {
+          "name": "contact@zetro.fr",
+          "link": "mailto:contact@zetro.fr"
+        }
+      ]
+    }
+  ]
+}

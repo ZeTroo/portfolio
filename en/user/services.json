@@ -1,0 +1,18 @@
+{
+  "title": "Spécialisé dans",
+  "subTitle": "SERVICES",
+  "cards": [
+    {
+      "title": "UI/UX Design",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+    },
+    {
+      "title": "Graphiste",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+    },
+    {
+      "title": "Web Development",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+    }
+  ]
+}

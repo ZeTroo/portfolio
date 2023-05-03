@@ -1,0 +1,45 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zelytra/cover.png",
+  "name": "Zelytra",
+  "url": "zelytra",
+  "date": "2024-10-31",
+  "tags": [
+    "Maquette Web"
+
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Maquette web pour Zelytra",
+      "description": "J'ai réalisé la maquette web pour le portfolio de Zelytra",
+      "tags": [
+        "Maquette web",
+        "Client"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zelytra/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Charte Graphique",
+      "text": "Pour la création de la maquette web, nous avons commencé par définir les bases de la charte graphique pour répondre au mieux aux attentes de notre client. Nous avons opté pour une couleur principale basée sur le violet et le noir, afin de créer une ambiance moderne et professionnelle pour le site web. La combinaison de ces deux couleurs crée un contraste intéressant et donne à la maquette une identité visuelle forte. En utilisant cette charte graphique, nous avons pu créer une maquette web attrayante et cohérente avec les besoins de mon client. ",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zelytra/cg.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Maquette web",
+      "text": "Je suis heureux de vous présenter un aperçu de la maquette que j'ai créée pour le portfolio de Zelytra. J'ai conservé les couleurs de la charte graphique que j'avais préalablement définie, afin de garantir une cohérence visuelle. J'ai opté pour un style épuré et professionnel, en accord avec la demande de Zelytra, qui souhaitait un portfolio mettant en valeur ses compétences d'ingénieur.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zelytra/maquette.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "name": "Site Web",
+          "link": "https://zelytra.fr"
+        }
+      ]
+    }
+  ]
+}
