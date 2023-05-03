@@ -10,24 +10,24 @@
       "title": "Navigation",
       "content": [
         {
-          "name": "Discord",
-          "link": "https://google.com"
+          "name": "Accueil",
+          "link": "https://zetro.fr"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Projets",
+          "link": "https://zetro.fr/projets"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Templates",
+          "link": "https://zetro.fr/templates"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Blog",
+          "link": "https://zetro.fr/blog"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Logo",
+          "link": "https://zetro.fr/logo"
         }
       ]
     },
