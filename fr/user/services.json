@@ -4,15 +4,15 @@
   "cards": [
     {
       "title": "UI/UX Design",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "content": "Designer web passionné, je crée des interfaces élégantes et fonctionnelles pour des expériences utilisateur uniques."
     },
     {
       "title": "Graphiste",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "content": "Graphiste créatif pour des designs originaux et impactants, je crée des visuels qui reflètent l'identité et les objectifs de mes clients."
     },
     {
-      "title": "Web Development",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "title": "Développeur",
+      "content": "Développeur polyvalent et passionné, je mets mes compétences au service de projets variés pour créer des expériences numériques uniques et fonctionnelles."
     }
   ]
 }
