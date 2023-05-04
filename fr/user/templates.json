@@ -1,0 +1,16 @@
+{
+  "title": "Mes création",
+  "subTitle": "Maquettes Web",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "Tout",
+      "tags": [
+        "Dashboard",
+        "Portfolio",
+        "Marketing",
+        "Site Vitrine"
+      ]
+    }
+  ]
+}
