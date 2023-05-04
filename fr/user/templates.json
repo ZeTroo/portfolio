@@ -1,6 +1,6 @@
 {
-  "title": "Mes création",
-  "subTitle": "Maquettes Web",
+  "title": "aquettes Web",
+  "subTitle": "MMes création",
   "filters": [
     {
       "name": "Types",
@@ -9,7 +9,7 @@
         "Dashboard",
         "Portfolio",
         "Marketing",
-        "Site Vitrine"
+        "Site vitrine"
       ]
     }
   ]
