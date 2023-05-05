@@ -1,28 +1,14 @@
-%%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png%%
-%%name=Être plus productif avec Notion.%%
-%%urlName=article-1%%
-%%tags=Maquette Web,Tips%%
+%%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/blog/blog_test.png%%
+%%name=Refonte de Café Des Devs%%
+%%urlName=update_cdd%%
+%%tags=Communauté%%
 %%date=2022-10-31%%
-%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus%%
-# h1 Heading
+%%description=Après une longue pause du projet. Nous voilà de retour avec de bonne nouvelle et d'objectif !%%
 
-## h2 Heading
-
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Horizontal Rules
-
+![Bannière](https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/blog/blog_test.png)
+# Refonte de Café Des Devs
+Bonjour à tous ! Après une longue pause, nous sommes heureux de vous annoncer que Café Des Devs est de retour ! </br>Nous avons travaillé dur pour vous offrir de nouvelles fonctionnalités et des contenus exclusifs. Nous avons hâte de vous faire découvrir tout ce que nous avons préparé pour vous. Restez à l'écoute !
 ___
-
----
-
-***
 
 ## Typographic replacements
 
