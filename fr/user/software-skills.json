@@ -3,32 +3,28 @@
   "subTitle": "Connaissances",
   "skills": [
     {
-      "name": "Spline",
+      "name": "Photoshop",
+      "level": 45
+    },
+    {
+      "name": "Illustrator",
+      "level": 70
+    },
+    {
+      "name": "Figma",
+      "level": 90
+    },
+    {
+      "name": "AdobeXD",
       "level": 80
     },
     {
-      "name": "Test",
+      "name": "Spline",
       "level": 10
     },
     {
-      "name": "Test",
-      "level": 2
-    },
-    {
-      "name": "Test",
-      "level": 97
-    },
-    {
-      "name": "Designer",
-      "level": 50
-    },
-    {
-      "name": "Test",
-      "level": 20
-    },
-    {
-      "name": "Test",
-      "level": 60
+      "name": "Github",
+      "level": 65
     }
   ]
 }
