@@ -121,6 +121,7 @@ Right aligned columns
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
+<img src="https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev/images/5.png" style="max-width: 512px">
 
 ![Minion](https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev/images/5.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
