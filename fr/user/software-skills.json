@@ -1,0 +1,34 @@
+{
+  "title": "Logiciel et Maîtrises",
+  "subTitle": "Connaissances",
+  "skills": [
+    {
+      "name": "Spline",
+      "level": 80
+    },
+    {
+      "name": "Test",
+      "level": 10
+    },
+    {
+      "name": "Test",
+      "level": 2
+    },
+    {
+      "name": "Test",
+      "level": 97
+    },
+    {
+      "name": "Designer",
+      "level": 50
+    },
+    {
+      "name": "Test",
+      "level": 20
+    },
+    {
+      "name": "Test",
+      "level": 60
+    }
+  ]
+}
