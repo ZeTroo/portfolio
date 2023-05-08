@@ -2,7 +2,7 @@
 %%name=Refonte de Café Des Devs%%
 %%urlName=refonte_cdd%%
 %%tags=Communautaire%%
-%%date=2022-10-31%%
+%%date=2023-05-08%%
 %%description=Après une longue pause du projet. Nous voilà de retour avec de bonne nouvelle et d'objectif !%%
 
 ![Bannière](https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/blog/banner_cdd_1.png)
