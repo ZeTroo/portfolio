@@ -24,7 +24,7 @@
     "detail-shadow": " rgba(6, 28, 61, 0.08)"
   },
   {
-    "main": "#4F3DCF;",
+    "main": "#4F3DCF",
     "hover-main": "rgba(255, 232, 209, 0.1)",
     "primary-text": "#ffffff",
     "secondary-text": "#BDBDBD",
