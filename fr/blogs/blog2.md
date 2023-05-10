@@ -3,14 +3,20 @@
 %%urlName=article-2%%
 %%tags=Maquette Web%%
 %%date=2023-10-31%%
-%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce finibus%%
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+%%description=Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id magna nec ante scelerisque laoreet.Fusce
+finibus%%
 
+# h1 Heading
+
+## h2 Heading
+
+### h3 Heading
+
+#### h4 Heading
+
+##### h5 Heading
+
+###### h6 Heading
 
 ## Horizontal Rules
 
@@ -20,7 +26,6 @@ ___
 
 ***
 
-
 ## Typographic replacements
 
 Enable typographer option to see result.
@@ -29,10 +34,9 @@ Enable typographer option to see result.
 
 test.. test... test..... test?..... test!....
 
-!!!!!! ???? ,,  -- ---
+!!!!!! ???? ,, -- ---
 
 "Smartypants, double quotes" and 'single quotes'
-
 
 ## Emphasis
 
@@ -46,14 +50,11 @@ _This is italic text_
 
 ~~Strikethrough~~
 
-
 ## Blockquotes
-
 
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
-
 
 ## Lists
 
@@ -63,7 +64,9 @@ Unordered
 + Sub-lists are made by indenting 2 spaces:
     - Marker character change forces new list start:
         * Ac tristique libero volutpat at
+
         + Facilisis in pretium nisl aliquet
+
         - Nulla volutpat aliquam velit
 + Very easy!
 
@@ -82,7 +85,6 @@ Start numbering with offset:
 57. foo
 1. bar
 
-
 ## Code
 
 Inline `code`
@@ -93,7 +95,6 @@ Indented code
     line 1 of code
     line 2 of code
     line 3 of code
-
 
 Block code "fences"
 
@@ -113,20 +114,19 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description |
-| ------ | ----------- |
+| Option | Description                                                               |
+|--------|---------------------------------------------------------------------------|
 | data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files.                                      |
 
 Right aligned columns
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
+| Option |                                                               Description |
+|-------:|--------------------------------------------------------------------------:|
+|   data | path to data files to supply the data that will be passed into templates. |
+| engine |    engine to be used for processing templates. Handlebars is the default. |
+|    ext |                                      extension to be used for dest files. |
 
 ## Links
 
@@ -135,7 +135,6 @@ Right aligned columns
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
 
 ## Images
 
@@ -149,3 +148,33 @@ Like links, Images also have a footnote style syntax
 With a reference later in the document defining the URL location
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+::info
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
+aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
+consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Mauris vulputate metus metus, a elementum magna consectetur quis. Sed id
+risus quis justo pulvinar ultrices. Fusce vulputate, tellus eget sodales fringilla, neque sapien posuere arcu, sit amet
+convallis eros urna eu mi. Cras mattis fermentum quam, et tempus dolor scelerisque non. Nulla non luctus ante. In ut
+augue id justo hendrerit scelerisque vel eu dui. Nam magna justo, varius vel dapibus ac, egestas a orci.
+::
+
+::warning
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
+aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
+consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Mauris vulputate metus metus, a elementum magna consectetur quis. Sed id
+risus quis justo pulvinar ultrices. Fusce vulputate, tellus eget sodales fringilla, neque sapien posuere arcu, sit amet
+convallis eros urna eu mi. Cras mattis fermentum quam, et tempus dolor scelerisque non. Nulla non luctus ante. In ut
+augue id justo hendrerit scelerisque vel eu dui. Nam magna justo, varius vel dapibus ac, egestas a orci.
+::
+
+::error
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
+aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
+consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Mauris vulputate metus metus, a elementum magna consectetur quis. Sed id
+risus quis justo pulvinar ultrices. Fusce vulputate, tellus eget sodales fringilla, neque sapien posuere arcu, sit amet
+convallis eros urna eu mi. Cras mattis fermentum quam, et tempus dolor scelerisque non. Nulla non luctus ante. In ut
+augue id justo hendrerit scelerisque vel eu dui. Nam magna justo, varius vel dapibus ac, egestas a orci.
+::
