@@ -149,6 +149,7 @@ With a reference later in the document defining the URL location
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ::info
+((Titre de la bulle))
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
 aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
 consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
@@ -159,6 +160,7 @@ augue id justo hendrerit scelerisque vel eu dui. Nam magna justo, varius vel dap
 ::
 
 ::warning
+((Titre de la bulle))
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
 aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
 consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
@@ -169,6 +171,7 @@ augue id justo hendrerit scelerisque vel eu dui. Nam magna justo, varius vel dap
 ::
 
 ::error
+((Titre de la bulle))
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum dui diam, et pretium eros tincidunt eget. In
 aliquam tristique vulputate. Vivamus nec faucibus elit. Sed vel tellus eu elit scelerisque dictum a et ex. Nunc id
 consequat quam, nec efficitur purus. Curabitur elit magna, molestie at congue vitae, tincidunt sit amet mi. Lorem ipsum
