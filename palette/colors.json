@@ -48,8 +48,8 @@
     "detail-shadow": " rgba(6, 28, 61, 0.08)"
   },
   {
-    "main": "#4F3DCF",
-    "hover-main": "rgba(255, 232, 209, 0.1)",
+    "main": "gradient(95.35deg, #9CB7F0 2.28%, #9780F0 55.33%, #B973F0 114.21%)",
+    "hover-main": "gradient(95.35deg, #9CB7F0 2.28%, #9780F0 55.33%, #B973F0 114.21%)",
     "primary-text": "#ffffff",
     "secondary-text": "#BDBDBD",
     "revert-text": "#101010",
