@@ -35,7 +35,7 @@
       "title": "Découvrez leurs réseaux ci-dessous",
       "links": [
         {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
           "name": "Site Web",
           "link": "https://zelytra.fr"
         }
