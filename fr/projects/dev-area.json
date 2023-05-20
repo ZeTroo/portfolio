@@ -35,7 +35,7 @@
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logotype.png"
     },
     {
-      "type": "ImageText",
+      "type": "BigImageText",
       "title": "Pack d'icon",
       "text": "J'ai également créé des icônes et des badges personnalisés pour la communauté afin de donner une identité unique au serveur Discord de Dev'Area, tout en conservant le même style que le logo. En concevant ces icônes et badges, j'ai cherché à maintenir la cohérence visuelle avec le logo principal. J'ai utilisé les mêmes couleurs, les mêmes éléments graphiques et le même style inspiré du street-art pour créer une harmonie visuelle. Les icônes et badges ont été conçus pour représenter différentes fonctionnalités, rôles ou catégories au sein de la communauté Discord. Ils sont visuellement accrocheurs et facilement reconnaissables, ce qui aide à créer une expérience utilisateur agréable et mémorable.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/icons.png"
