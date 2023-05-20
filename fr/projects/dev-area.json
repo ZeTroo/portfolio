@@ -9,124 +9,50 @@
   "contents": [
     {
       "type": "Title",
-      "title": "Projet 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
+      "title": "Dev'Area",
+      "description": "Dev'Area est une communauté Discord axée sur l'entraide dans le domaine du développement et la recherche de développeurs. Elle offre des salons dédiés aux services et à la recherche, destinés à soutenir les développeurs dans leurs projets !",
       "tags": [
-        "tag1",
-        "tag2",
-        "tag1",
-        "tag2",
-        "tag3"
+        "Charte Graphique"
+
       ],
-      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logo.png"
     },
     {
       "type": "BasicText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "ImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Ce qu'il faut savoir de Dev'Area",
+      "text": "Dev'Area est une communauté Discord d'entraide dédiée aux développeurs. Le projet vise à créer un environnement collaboratif où les développeurs peuvent se rassembler, échanger des connaissances et trouver du soutien.\nL'objectif principal de Dev'Area est de favoriser la croissance professionnelle et personnelle des développeurs en leur offrant un espace où ils peuvent interagir les uns avec les autres. La communauté encourage les discussions techniques, les partages de ressources, et permet aux membres de collaborer sur des projets communs. En échangeant leurs idées et leurs expériences, les développeurs peuvent trouver des solutions à leurs problèmes, découvrir de nouvelles technologies et améliorer leurs compétences."
     },
     {
       "type": "BigImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Élaboration des couleurs",
+      "text": "Pour ce logo, j'ai utilisé une palette de couleurs comprenant quatre teintes distinctes. J'ai commencé par utiliser du blanc pour mettre en valeur le texte et le nom du projet. Ensuite, j'ai choisi une couleur sombre pour le fond afin de créer un contraste avec les couleurs vives du logo. Pour les couleurs primaires du logo, j'ai délibérément opté pour des teintes chaudes, notamment l'orange et le jaune. Cette décision a été prise dans le but de se démarquer des couleurs traditionnelles telles que le vert souvent associé à la programmation.\n\nEn choisissant des couleurs chaleureuses, j'ai souhaité apporter une touche d'originalité et d'énergie au logo, tout en conservant une certaine cohérence avec le concept de street-art. L'utilisation de ces couleurs chaudes permet de captiver l'attention et de communiquer un sentiment d'enthousiasme et de dynamisme. Elles viennent compléter le style du logo et renforcer son impact visuel. Dans l'ensemble, la palette de couleurs choisie pour ce logo est le résultat d'une réflexion stratégique visant à véhiculer à la fois les valeurs du projet et à se démarquer visuellement. ",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/colors.png"
     },
     {
-      "type": "ProjectSkill",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius.",
-      "skills": [
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        }
-      ]
+      "type": "ImageText",
+      "title": "Conception du logo",
+      "text": "Pour la création de ce logo, j'ai été guidé par l'idée de fusionner un côté classique avec des éléments emblématiques de la programmation. C'est ainsi que j'ai choisi d'incorporer le symbole distinctif \"</>\" dans le design. Ce symbole est largement reconnu dans la communauté des développeurs comme la balise de fermeture utilisée dans certains langages de programmation. En ce qui concerne le style du logo, j'ai décidé d'explorer une approche inspirée du street-art.\n\nEn utilisant des éléments graphiques inspirés du street-art, j'ai cherché à ajouter une touche de spontanéité et de créativité au logo. Les traits et les formes sont dessinés de manière expressive, évoquant ainsi l'énergie et la passion associées à la programmation. Cette combinaison de l'esthétique classique de la programmation et du style audacieux du street-art donne naissance à un logo distinctif qui représente à la fois le projet et son nom de manière percutante.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logotype.png"
     },
     {
-      "type": "Contributor",
-      "title": "Blabla",
-      "contributors": [
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "Warning",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Error",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Information",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
+      "type": "ImageText",
+      "title": "Pack d'icon",
+      "text": "J'ai également créé des icônes et des badges personnalisés pour la communauté afin de donner une identité unique au serveur Discord de Dev'Area, tout en conservant le même style que le logo. En concevant ces icônes et badges, j'ai cherché à maintenir la cohérence visuelle avec le logo principal. J'ai utilisé les mêmes couleurs, les mêmes éléments graphiques et le même style inspiré du street-art pour créer une harmonie visuelle. Les icônes et badges ont été conçus pour représenter différentes fonctionnalités, rôles ou catégories au sein de la communauté Discord. Ils sont visuellement accrocheurs et facilement reconnaissables, ce qui aide à créer une expérience utilisateur agréable et mémorable.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/icons.png"
     },
     {
       "type": "ExternalLinks",
       "title": "Découvrez leurs réseaux ci-dessous",
       "links": [
         {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
-          "name": "Site Web",
-          "link": "https://google.com"
-        },
-        {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
           "name": "Discord",
           "link": "https://google.com"
         },
         {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
-          "name": "Behance",
-          "link": "https://google.com"
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
+          "name": "Site Web",
+          "link": "https://discord.gg/dev-area-768370886532137000"
         }
       ]
     }
