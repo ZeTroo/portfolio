@@ -29,7 +29,7 @@
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/colors.png"
     },
     {
-      "type": "ImageText",
+      "type": "BigImageText",
       "title": "Conception du logo",
       "text": "Pour la création de ce logo, j'ai été guidé par l'idée de fusionner un côté classique avec des éléments emblématiques de la programmation. C'est ainsi que j'ai choisi d'incorporer le symbole distinctif \"</>\" dans le design. Ce symbole est largement reconnu dans la communauté des développeurs comme la balise de fermeture utilisée dans certains langages de programmation. En ce qui concerne le style du logo, j'ai décidé d'explorer une approche inspirée du street-art.\n\nEn utilisant des éléments graphiques inspirés du street-art, j'ai cherché à ajouter une touche de spontanéité et de créativité au logo. Les traits et les formes sont dessinés de manière expressive, évoquant ainsi l'énergie et la passion associées à la programmation. Cette combinaison de l'esthétique classique de la programmation et du style audacieux du street-art donne naissance à un logo distinctif qui représente à la fois le projet et son nom de manière percutante.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logotype.png"
