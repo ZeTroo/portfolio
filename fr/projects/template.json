@@ -1,21 +1,26 @@
 {
-  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/histeria/cover.png",
-  "name": "Histeria",
-  "url": "histeria",
-  "date": "2022-10-31",
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png",
+  "name": "Projet 2",
   "tags": [
-    "Design Web"
+    "tag1",
+    "tag2",
+    "tag1",
+    "tag2",
+    "tag3"
   ],
   "contents": [
     {
       "type": "Title",
-      "title": "Histeria",
-      "description": "Le projet Histeria est un serveur Minecraft Bedrock qui compte plus de 50 000 joueurs uniques. Dans le cadre de ce projet, j'ai travaillé en tant que designer web et j'ai réalisé l'ensemble de la maquette du site web.",
+      "title": "Projet 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
       "tags": [
-        "Design Web"
-
+        "tag1",
+        "tag2",
+        "tag1",
+        "tag2",
+        "tag3"
       ],
-      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/histeria/logo.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
     },
     {
       "type": "BasicText",
