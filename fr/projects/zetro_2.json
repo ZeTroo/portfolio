@@ -1,0 +1,148 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png",
+  "name": "ZeTro logo 2",
+  "url": "z-logo-2",
+  "date": "2022-04-31",
+  "tags": [
+    "Logotype"
+
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Aikys",
+      "description": "Il s'agit d'une application web conçue pour gérer et exploiter les logs de serveurs de jeux vidéo. Elle permet également la gestion des utilisateurs et de leurs permissions.\nElle peut également être utilisée par les développeurs de jeux pour surveiller les performances et résoudre les problèmes sur les serveurs de jeux.",
+      "tags": [
+        "Charte Graphique"
+
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "Création du logo du projet",
+      "text": ""
+    },
+    {
+      "type": "ImageText",
+      "title": "Blabla",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Création du logo du projet",
+      "text": "Pour ce logo, je suis resté sur quelque chose d'assez simpliste et léger. C'est donc pour cela que j'ai choisi un cube pour faire référence au monde de \"Minecraft\". J'ai donc inséré les initiales du projet \"G, L, M\".\n\nDans le cas présent, la référence à \"Minecraft\" est pertinente puisqu'il s'agit d'un jeu vidéo très populaire auprès d'un public jeune et connecté. Le cube est un élément graphique simple mais efficace pour évoquer cet univers. Quant aux initiales \"G, L, M\", elles permettent de rappeler le nom du projet de manière discrète.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/make_logo.png"
+    },
+    {
+      "type": "ProjectSkill",
+      "title": "Blabla",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius.",
+      "skills": [
+        {
+          "name": "Figma",
+          "level": 50
+        },
+        {
+          "name": "Figma",
+          "level": 50
+        },
+        {
+          "name": "Figma",
+          "level": 50
+        }
+      ]
+    },
+    {
+      "type": "Contributor",
+      "title": "Blabla",
+      "contributors": [
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro0",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro1",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro2",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro3",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro4",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
+          "name": "Zetro5",
+          "tags": [
+            "Designer",
+            "Graphiste"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Warning",
+      "title": "Blabla",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
+    },
+    {
+      "type": "Error",
+      "title": "Blabla",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
+    },
+    {
+      "type": "Information",
+      "title": "Blabla",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "name": "Site Web",
+          "link": "https://google.com"
+        },
+        {
+          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "name": "Discord",
+          "link": "https://google.com"
+        },
+        {
+          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "name": "Behance",
+          "link": "https://google.com"
+        }
+      ]
+    }
+  ]
+}
