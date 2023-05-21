@@ -40,7 +40,8 @@
     },
     {
       "type": "BigImageText",
-      "title": "La maquette du projet charge la conception complète de la maquette du site web, mettant en avant les services et les abonnements de manière épurée et professionnelle. J'ai opté pour des formes légèrement arrondies, tout en conservant le côté professionnel souhaité. De plus, j'ai créé des illustrations personnalisées pour représenter visuellement leurs services sur le site web. L'objectif principal de la maquette web était de présenter de manière claire et convaincante les services proposés par l'entreprise. J'ai utilisé un style épuré pour favoriser la lisibilité et la navigation intuitive, tout en mettant en valeur les informations essentielles.\nLes formes arrondies ont été choisies pour apporter une touche de douceur et d'élégance, tout en maintenant une apparence professionnelle et sérieuse. Parallèlement à la conception de la maquette, j'ai créé des illustrations sur mesure qui ont été intégrées de manière stratégique dans le site web. Ces illustrations ont été conçues pour représenter visuellement les différents services offerts par l'entreprise. Elles ajoutent une dimension visuelle attrayante et contribuent à renforcer la compréhension et l'impact des informations présentées.",
+      "title": "La maquette du projet",
+      "text": "La maquette du projet charge la conception complète de la maquette du site web, mettant en avant les services et les abonnements de manière épurée et professionnelle. J'ai opté pour des formes légèrement arrondies, tout en conservant le côté professionnel souhaité. De plus, j'ai créé des illustrations personnalisées pour représenter visuellement leurs services sur le site web. L'objectif principal de la maquette web était de présenter de manière claire et convaincante les services proposés par l'entreprise. J'ai utilisé un style épuré pour favoriser la lisibilité et la navigation intuitive, tout en mettant en valeur les informations essentielles.\nLes formes arrondies ont été choisies pour apporter une touche de douceur et d'élégance, tout en maintenant une apparence professionnelle et sérieuse. Parallèlement à la conception de la maquette, j'ai créé des illustrations sur mesure qui ont été intégrées de manière stratégique dans le site web. Ces illustrations ont été conçues pour représenter visuellement les différents services offerts par l'entreprise. Elles ajoutent une dimension visuelle attrayante et contribuent à renforcer la compréhension et l'impact des informations présentées.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/design_web.png"
     },
     {
@@ -52,6 +53,7 @@
     {
       "type": "Contributor",
       "title": "Notre équipe",
+      "text": "Voici l'équipe qui a permis le développement de ce projet.",
       "contributors": [
         {
           "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zetro.png",
@@ -80,16 +82,16 @@
     {
       "type": "Information",
       "title": "Recrutement",
-      "text": "Le projet recrute des développeurs"
+      "text": "Le projet est à la recherche de talents dans les domaines du développement web, du design et de la graphisme afin de rejoindre son équipe dynamique et créative. En tant que développeur web, vous aurez l'opportunité de participer à la création de sites web innovants et fonctionnels. Vous serez chargé de la programmation, de la gestion des bases de données, de l'intégration de contenus et de la mise en place de fonctionnalités interactives. Vous travaillerez en étroite collaboration avec les autres membres de l'équipe pour garantir des solutions techniques optimales et répondre aux besoins spécifiques des clients."
     },
     {
       "type": "ExternalLinks",
       "title": "Découvrez leurs réseaux ci-dessous",
       "links": [
         {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/figma.png",
           "name": "Figma",
-          "link": "https://google.com"
+          "link": "https://www.figma.com/community/file/1190315205093078932"
         }
       ]
     }
