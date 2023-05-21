@@ -36,9 +36,15 @@
     },
     {
       "type": "BigImageText",
-      "title": "Pack d'icon",
+      "title": "Les icons",
       "text": "J'ai également créé des icônes et des badges personnalisés pour la communauté afin de donner une identité unique au serveur Discord de Dev'Area, tout en conservant le même style que le logo. En concevant ces icônes et badges, j'ai cherché à maintenir la cohérence visuelle avec le logo principal. J'ai utilisé les mêmes couleurs, les mêmes éléments graphiques et le même style inspiré du street-art pour créer une harmonie visuelle. Les icônes et badges ont été conçus pour représenter différentes fonctionnalités, rôles ou catégories au sein de la communauté Discord. Ils sont visuellement accrocheurs et facilement reconnaissables, ce qui aide à créer une expérience utilisateur agréable et mémorable.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/icons.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Les Bannières",
+      "text": "En complément de la charte graphique, j'ai également créé des bannières pour le serveur Discord de Dev'Area afin de renforcer l'aspect visuel cohérent de leur marque. Vous trouverez ci-dessous quelques exemples de ces bannières. Ces bannières ont été conçues en prenant en compte les éléments clés de la charte graphique existante. J'ai utilisé les couleurs, les motifs et les éléments graphiques déjà présents dans le logo et les icônes, afin d'assurer une continuité visuelle. L'objectif était de créer des bannières accrocheuses qui capturent l'attention des membres du serveur Discord. J'ai veillé à ce qu'elles soient esthétiquement attrayantes, tout en transmettant les valeurs et l'identité de Dev'Area.\nCes bannières sont destinées à compléter la charte graphique globale et à apporter une identité visuelle cohérente à tous les aspects du serveur Discord. Elles servent également à mettre en avant des informations importantes, des événements à venir ou des mises à jour spéciales.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/banner.png"
     },
     {
       "type": "ExternalLinks",
@@ -47,12 +53,12 @@
         {
           "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
           "name": "Discord",
-          "link": "https://google.com"
+          "link": "https://discord.gg/dev-area-768370886532137000"
         },
         {
           "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
           "name": "Site Web",
-          "link": "https://discord.gg/dev-area-768370886532137000"
+          "link": "https://devarea.fr"
         }
       ]
     }

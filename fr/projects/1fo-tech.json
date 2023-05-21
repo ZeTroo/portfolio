@@ -2,128 +2,45 @@
   "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/cover.png",
   "name": "1fo-Tech",
   "url": "1fo-tech",
-  "date": "2022-10-31",
+  "date": "2022-11-31",
   "tags": [
-    "Charte Graphique"
+    "Logotype"
   ],
   "contents": [
     {
       "type": "Title",
-      "title": "Projet 2",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
+      "title": "1fo-Tech",
+      "description": "1fo-Tech est une entreprise spécialisée dans la conception et la fabrication de machines de calcul extrêmement puissantes.",
       "tags": [
-        "tag1"
-
+        "Charte Graphique"
       ],
-      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/logo.png"
     },
     {
       "type": "BasicText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "ImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Ce qu'il faut savoir de 1fo-Tech",
+      "text": "1fo-tech SAS est une entreprise spécialisée dans la conception et la fourniture de machines à calcul de très haute puissance. Elle se distingue en offrant des services d'accompagnement personnalisés pour aider ses clients à choisir les composants les plus performants, tout en respectant leur budget. En tant qu'expert autonome dans la conception et le montage d'ordinateurs et de serveurs, 1fo-tech offre à ses clients la possibilité d'utiliser des technologies de pointe telles que le watercooling, le directcooling et même l'immersion. Grâce à son expertise approfondie, 1fo-tech est en mesure de proposer des solutions sur mesure répondant aux besoins spécifiques de ses clients en termes de puissance de calcul.\nQue ce soit pour des applications scientifiques intensives, des rendus graphiques exigeants ou des projets nécessitant des capacités de traitement avancées tels que l'intelligence artificielle ou le deep learning, 1fo-tech offre des conseils avisés pour maximiser les performances. En plus de ses services de conseil, 1fo-tech assume la responsabilité de la conception et du montage des machines, en garantissant un haut niveau de qualité et de fiabilité. Son expertise dans les technologies de refroidissement avancées permet à ses clients de bénéficier de performances optimales tout en maintenant une température de fonctionnement efficace."
     },
     {
       "type": "BigImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
+      "title": "Élaboration des couleurs",
+      "text": "Pour la conception de ce logo, j'ai pris soin d'utiliser un mélange harmonieux de couleurs, notamment du jaune et du blanc. Ce choix de couleurs a été délibéré pour créer un effet visuel captivant et mettre en avant les caractéristiques uniques du logo. Le jaune, en tant que couleur vive et dynamique, symbolise souvent la créativité, l'énergie et l'optimisme. Il attire l'attention et évoque des émotions positives.\nEn l'associant au blanc, qui représente la pureté, la simplicité et la clarté, j'ai créé un contraste visuel qui renforce l'impact du logo. En mélangeant ces deux teintes avec soin, j'ai pu obtenir un équilibre parfait entre la vivacité du jaune et la douceur du blanc. Cela permet au logo de se démarquer visuellement et d'attirer l'œil des spectateurs. En plus de l'aspect esthétique, le choix du jaune et du blanc peut également transmettre des messages subtils liés à la marque ou à l'identité qu'elle représente. Par exemple, le jaune peut évoquer l'innovation, l'audace et l'esprit d'entreprise, tandis que le blanc peut symboliser la transparence, la pureté des intentions et la simplicité des solutions proposées.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/colors.png"
     },
     {
-      "type": "ProjectSkill",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius.",
-      "skills": [
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        },
-        {
-          "name": "Figma",
-          "level": 50
-        }
-      ]
-    },
-    {
-      "type": "Contributor",
-      "title": "Blabla",
-      "contributors": [
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        },
-        {
-          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png",
-          "name": "Zetro",
-          "tags": [
-            "Designer",
-            "Graphiste"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "Warning",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Error",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
-    },
-    {
-      "type": "Information",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. "
+      "type": "BigImageText",
+      "title": "Conception du logo",
+      "text": "Pour la réalisation de ce logo, j'ai soigneusement sélectionné et combiné deux éléments clés qui représentent parfaitement l'essence de l'entreprise. Le premier élément est le processeur, symbole emblématique des technologies informatiques et du matériel informatique en général. Il incarne la puissance de calcul, l'innovation technologique et la performance qui caractérisent l'activité de l'entreprise. Le second élément est l'engrenage, un symbole de la gestion et de la fabrication des ordinateurs. Il représente l'organisation, la coordination et le processus de production efficace nécessaires pour créer des machines de haute qualité.\nL'engrenage symbolise également la précision, la synchronisation et la collaboration, des éléments essentiels pour garantir le bon fonctionnement et la fiabilité des produits de l'entreprise. En combinant ces deux éléments de manière harmonieuse, j'ai pu créer un logo qui incarne l'expertise de l'entreprise dans le domaine des technologies informatiques et sa capacité à fournir des solutions performantes et fiables. Ce logo capture visuellement l'engagement de l'entreprise envers l'innovation, la qualité et l'excellence opérationnelle. En plus de représenter l'identité de l'entreprise, ce logo a également pour objectif de susciter une résonance auprès du public cible.\nEn voyant le processeur et l'engrenage combinés, les clients potentiels pourront rapidement identifier l'expertise technique et la capacité de l'entreprise à fournir des solutions adaptées à leurs besoins en matière de matériel informatique.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/logotype.png"
     },
     {
       "type": "ExternalLinks",
       "title": "Découvrez leurs réseaux ci-dessous",
       "links": [
         {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
-          "name": "Site Web",
-          "link": "https://google.com"
-        },
-        {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
           "name": "Discord",
-          "link": "https://google.com"
-        },
-        {
-          "icon": "https://fr.wikipedia.org/static/images/icons/wikipedia.png",
-          "name": "Behance",
-          "link": "https://google.com"
+          "link": "https://discord.gg/1fo-tech"
         }
       ]
     }
