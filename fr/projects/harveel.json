@@ -24,30 +24,29 @@
     {
       "type": "BasicText",
       "title": "Ce qu'il faut savoir de Harveel Studio",
-      "text": "blabla"
+      "text": "Harveel Studio est un projet ambitieux visant à se développer en tant qu'entreprise offrant une large gamme de services dans le domaine du développement web, de l'illustration et de la création d'icônes sur mesure. En plus de ces services, ils prévoient également de proposer des abonnements aux développeurs souhaitant enrichir leur bibliothèque d'icônes, d'illustrations, de logos et autres éléments de design. En tant que studio de développement web, Harveel Studio s'engage à créer des sites web innovants, fonctionnels et esthétiquement attrayants.\nLeur équipe de développeurs web expérimentés maîtrise les dernières technologies et les langages de programmation pour répondre aux besoins spécifiques de leurs clients. En parallèle, Harveel Studio se spécialise également dans l'illustration, offrant des services de création d'illustrations personnalisées pour des projets variés. Leurs illustrateurs talentueux peuvent donner vie à des idées, des concepts et des histoires à travers des illustrations uniques et créatives. De plus, Harveel Studio se distingue en proposant la création d'icônes sur mesure. Ils comprennent l'importance des icônes pour l'identité visuelle et l'expérience utilisateur. Leurs concepteurs d'icônes travaillent en étroite collaboration avec les clients pour concevoir des icônes qui correspondent à leurs besoins spécifiques et reflètent leur identité de marque."
     },
     {
       "type": "BigImageText",
       "title": "Élaboration des couleurs",
-      "text": "blabla",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/color.png"
+      "text": "Étant donné que Harveel est un studio de design et de graphisme, il est essentiel qu'ils utilisent des couleurs qui les distinguent de leurs concurrents. C'est pourquoi j'ai choisi d'opter pour une teinte orange pastel, une couleur peu couramment utilisée qui démontre que le studio possède une identité visuelle unique. En sélectionnant une couleur peu répandue, Harveel se démarque visuellement et se positionne comme une marque originale et créative.\nL'orange pastel offre une touche de fraîcheur et de subtilité, tout en conservant une certaine vivacité et énergie. Cette couleur transmet des valeurs d'innovation, de dynamisme et d'audace, qui sont en adéquation avec la nature du studio et ses activités de design et de graphisme. En utilisant une couleur peu conventionnelle, Harveel a la possibilité de créer des designs uniques et mémorables qui captent l'attention du public. Cela permet également d'établir une identité visuelle forte, reconnaissable et différente de celle des autres marques concurrentes.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/colors.png"
     },
     {
       "type": "BigImageText",
       "title": "Conception du logo",
-      "text": "blabla",
+      "text": "Dans la création de ce logo, j'ai souhaité mettre en valeur les formes fondamentales du design et du graphisme, à savoir le cercle, le triangle et le carré. En utilisant ces trois formes comme base, j'ai fusionné leurs éléments distinctifs pour obtenir le rendu final du logo. Chacune de ces formes possède sa propre signification symbolique. Le cercle représente l'unité, l'harmonie et la perfection. Le triangle évoque la stabilité, la progression et l'équilibre. Le carré symbolise la solidité, la structure et l'ordre. En combinant ces formes, j'ai cherché à créer une composition visuelle unique qui reflète l'essence du design et du graphisme.\nEn mélangeant habilement ces formes, j'ai pu obtenir un rendu final du logo qui associe les caractéristiques distinctives de chacune d'entre elles. Ce mélange harmonieux des formes fondamentales du design et du graphisme crée une identité visuelle originale et captivante pour le logo. Le choix délibéré de combiner ces formes démontre l'expertise et la créativité du studio dans le domaine du design et du graphisme. Le logo résultant représente une fusion harmonieuse de ces éléments essentiels, véhiculant ainsi une image forte et reconnaissable pour la marque. ",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/logotype.png"
     },
     {
       "type": "BigImageText",
-      "title": "La maquette du projet",
-      "text": "blabla",
+      "title": "La maquette du projet charge la conception complète de la maquette du site web, mettant en avant les services et les abonnements de manière épurée et professionnelle. J'ai opté pour des formes légèrement arrondies, tout en conservant le côté professionnel souhaité. De plus, j'ai créé des illustrations personnalisées pour représenter visuellement leurs services sur le site web. L'objectif principal de la maquette web était de présenter de manière claire et convaincante les services proposés par l'entreprise. J'ai utilisé un style épuré pour favoriser la lisibilité et la navigation intuitive, tout en mettant en valeur les informations essentielles.\nLes formes arrondies ont été choisies pour apporter une touche de douceur et d'élégance, tout en maintenant une apparence professionnelle et sérieuse. Parallèlement à la conception de la maquette, j'ai créé des illustrations sur mesure qui ont été intégrées de manière stratégique dans le site web. Ces illustrations ont été conçues pour représenter visuellement les différents services offerts par l'entreprise. Elles ajoutent une dimension visuelle attrayante et contribuent à renforcer la compréhension et l'impact des informations présentées.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/design_web.png"
     },
     {
       "type": "BigImageText",
       "title": "Les ébauche",
-      "text": "blabla",
+      "text": "Pour ce projet de design, j'ai réalisé des ébauches afin d'expliquer la création de la charte graphique, ainsi que des exemples de présentation illustrant les possibilités offertes par ce design. Les ébauches ont été conçues pour fournir une vision claire de la direction graphique du projet. Elles ont servi à expliquer les choix esthétiques, les couleurs, les typographies et les éléments visuels clés qui composent la charte graphique. Grâce à ces ébauches, il a été possible de présenter de manière concrète et visuelle les idées et les concepts derrière le design proposé. En plus des ébauches pour la création de la charte graphique, j'ai également réalisé des exemples de présentation pour mettre en valeur le design dans différents contextes. Ces exemples de présentation ont permis d'illustrer comment le design s'intègre harmonieusement dans des supports tels que des maquettes web, des brochures, des affiches ou tout autre élément de communication. Ils ont offert une vision concrète de l'apparence finale du design dans différentes applications, permettant ainsi de visualiser son potentiel et son impact visuel.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/harveel/ebauche.png"
     },
     {
