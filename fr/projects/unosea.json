@@ -4,8 +4,8 @@
   "url": "unosea",
   "date": "2023-04-10",
   "tags": [
-    "Charte Graphique"
-
+    "Charte Graphique",
+    "Projets"
   ],
   "contents": [
     {
@@ -13,8 +13,8 @@
       "title": "Unosea",
       "description": "Il s'agit d'une application web conçue pour gérer et exploiter les logs de serveurs de jeux vidéo. Elle permet également la gestion des utilisateurs et de leurs permissions.\nElle peut également être utilisée par les développeurs de jeux pour surveiller les performances et résoudre les problèmes sur les serveurs de jeux.",
       "tags": [
-        "Charte Graphique"
-
+        "Charte Graphique",
+        "Projets"
       ],
       "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/unosea/logo.png"
     },

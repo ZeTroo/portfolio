@@ -24,7 +24,7 @@
     "detail-shadow": " rgba(6, 28, 61, 0.08)"
   },
   {
-    "main": "#3DBACF",
+    "main": "#6D85FF",
     "hover-main": "rgba(255, 232, 209, 0.1)",
     "primary-text": "#ffffff",
     "secondary-text": "#BDBDBD",
@@ -48,7 +48,31 @@
     "detail-shadow": " rgba(6, 28, 61, 0.08)"
   },
   {
-    "main": "gradient(95.35deg, #9CB7F0 2.28%, #9780F0 55.33%, #B973F0 114.21%)",
+    "main": "#47E27C",
+    "hover-main": "gradient(95.35deg, #9CB7F0 2.28%, #9780F0 55.33%, #B973F0 114.21%)",
+    "primary-text": "#ffffff",
+    "secondary-text": "#BDBDBD",
+    "revert-text": "#101010",
+    "primary-background": "#101010",
+    "secondary-background": "#FFE8D1",
+    "heavy-background": "#060606",
+    "input-background": "#141414",
+    "header-background": "rgba(16, 16, 16, 0.65)",
+    "info-main": "#5056E0",
+    "info-background": "rgba(80, 86, 224, 0.1)",
+    "info-border": "rgba(80, 86, 224, 0.1)",
+    "info-shadow": "rgba(6, 28, 61, 0.08)",
+    "error-main": "#E05050",
+    "error-background": "rgba(224, 80, 80, 0.1)",
+    "error-border": "rgba(224, 80, 80, 0.1)",
+    "error-shadow": "rgba(6, 28, 61, 0.08)",
+    "detail-main": "#FFE8D1",
+    "detail-background": "rgba(255, 232, 209, 0.1)",
+    "detail-border": "rgba(255, 232, 209, 0.1)",
+    "detail-shadow": " rgba(6, 28, 61, 0.08)"
+  },
+  {
+    "main": "#A747E2",
     "hover-main": "gradient(95.35deg, #9CB7F0 2.28%, #9780F0 55.33%, #B973F0 114.21%)",
     "primary-text": "#ffffff",
     "secondary-text": "#BDBDBD",
