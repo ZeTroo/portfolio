@@ -1,11 +1,13 @@
 {
   "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/cover.png",
-  "name": "Café Des Devs",
-  "url": "cafe-des-devs",
-  "date": "2021-01-27",
+  "name": "Dev Conquest",
+  "url": "dev-conquest",
+  "date": "2022-10-31",
   "tags": [
     "Charte Graphique",
+    "Design Web",
     "Projets"
+
   ],
   "contents": [
     {
@@ -26,18 +28,6 @@
     },
     {
       "type": "BigImageText",
-      "title": "Élaboration des couleurs",
-      "text": "Pour la conception de ce logo, j'ai pris soin d'utiliser un total de quatre couleurs distinctes afin de transmettre efficacement le message visuel que je souhaitais transmettre. En débutant par une teinte de beige chaleureuse, j'ai voulu représenter la couleur authentique et réconfortante du café, créant ainsi une connexion directe avec le produit lui-même. De plus, pour souligner l'aspect évocateur de la fumée du café, j'ai choisi une variation plus claire de la teinte beige initiale, offrant ainsi une nuance subtile qui renforce la dimension sensorielle et gustative de l'expérience caféinée.\nEn ce qui concerne les couleurs supplémentaires, j'ai opté pour des choix classiques et intemporels. Le blanc, symbolisant la pureté et la clarté, a été utilisé pour le reste du logo, offrant un contraste saisissant avec les nuances de beige et ajoutant une note de légèreté et de modernité à l'ensemble de la composition. Enfin, pour donner une base solide et marquante au logo, j'ai intégré une teinte de noir sombre et profond pour le fond, créant ainsi une impression de profondeur et de sophistication.",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/colors.png"
-    },
-    {
-      "type": "BigImageText",
-      "title": "Conception du logo",
-      "text": "Dans le processus de conception de ce logo, j'ai souhaité fusionner le monde du café avec une référence à la programmation. Pour ce faire, j'ai utilisé les accolades \"{ }\", largement reconnues dans le domaine du développement, et les ai intégrées de manière créative. J'ai habilement combiné ces deux éléments pour former une représentation visuelle d'une tasse à café, où les accolades se transforment en poignée tandis que le contenu de la tasse représente le café.\nEn unissant ces deux concepts de manière harmonieuse, j'ai pu créer un logo unique qui évoque à la fois l'univers chaleureux du café et l'esprit de la programmation. Cette combinaison astucieuse entre les éléments visuels du café et des accolades ajoute une touche d'originalité et de pertinence, tout en captivant l'attention de ceux qui le voient. Ce logo offre une représentation visuelle attrayante, véhiculant simultanément les aspects liés au café et à la programmation de manière distinctive et mémorable.",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/logotype.png"
-    },
-    {
-      "type": "BigImageText",
       "title": "Nos Mascottes",
       "text": "Nous avions choisi de représenter la communauté des développeurs à travers des petites mascottes de café. Ces emotes de café ont été créées pour représenter les différentes expressions de la communauté, allant de la joie à la frustration en passant par la concentration. Le choix des emotes de café n'est pas anodin. Tout d'abord, cela représente le nom de la communauté. Mais en plus de cela, les développeurs sont souvent associés à la consommation de café, ce qui rend ces mascottes encore plus représentatives de la communauté. Les emotes de café sont devenues une partie intégrante de l'identité visuelle de Café Des Devs et sont utilisées pour exprimer les émotions lors des conversations en ligne.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/emotes.png"
@@ -46,6 +36,12 @@
       "type": "Warning",
       "title": "Tout droits réservés",
       "text": "Toutes les créations associées à Café Des Devs, y compris les logos, les emotes, les bannières, les documents et autres contenus, sont protégées par une licence de propriété intellectuelle. Toute utilisation de ces créations à des fins commerciales sans l'autorisation explicite de Café Des Devs est strictement interdite et peut entraîner des poursuites judiciaires. Nous prenons la protection de nos créations très au sérieux et nous nous réservons le droit de prendre les mesures légales appropriées pour protéger nos droits de propriété intellectuelle. Nous invitons les personnes intéressées à utiliser nos créations à nous contacter à cette adresse : contact@cafedesdevs.fr pour obtenir l'autorisation nécessaire."
+    },
+    {
+      "type": "ImageText",
+      "title": "Dev-Conquest",
+      "text": "Le \"Dev-Conquest\" est un concours de programmation organisé par le Café Des Devs, une communauté en ligne pour les développeurs. Les participants ont l'opportunité de relever des défis stimulants, quel que soit leur niveau de compétence ou leur langage de programmation. Des prix incroyables sont offerts grâce à la générosité des sponsors impliqués dans l'événement. Les développeurs peuvent rejoindre ce concours pour tester leurs compétences et tenter de gagner des cadeaux fantastiques. C'est une occasion de se mesurer aux autres développeurs et de se faire remarquer par les sponsors.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/dev-conquest.png"
     },
     {
       "type": "Contributor",
@@ -68,14 +64,8 @@
       ]
     },
     {
-      "type": "BasicText",
-      "title": "L'équipe de Café Des Devs",
-      "text": "Le Café Des Devs recrute quotidiennement de nouveaux membres pour renforcer notre équipe et offrir le meilleur support possible à nos membres. Si vous êtes intéressé(e) à rejoindre notre équipe, nous vous invitons à cliquer dès maintenant sur le lien de notre serveur Discord ci-dessous pour accéder à notre plateforme de recrutement. En vous joignant à notre serveur Discord, vous pourrez postuler et entamer le processus de candidature.\nNous sommes constamment à la recherche de talents passionnés et motivés, prêts à contribuer à notre communauté dynamique. Rejoignez-nous dès maintenant pour découvrir de nouvelles opportunités et faire partie de notre équipe grandissante. Nous sommes impatients de vous accueillir et de découvrir votre potentiel pour enrichir notre équipe. N'hésitez pas à poser des questions et à interagir avec notre communauté pendant le processus de recrutement. Nous attendons avec enthousiasme votre candidature et sommes convaincus que vous vous épanouirez au sein de notre équipe du Café Des Devs.",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/staff.png"
-    },
-    {
       "type": "ExternalLinks",
-      "title": "Découvrez nos réseaux ci-dessous",
+      "title": "Découvrez leurs réseaux ci-dessous",
       "links": [
         {
           "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
