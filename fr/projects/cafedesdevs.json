@@ -68,7 +68,7 @@
       ]
     },
     {
-      "type": "BasicText",
+      "type": "ImageText",
       "title": "L'équipe de Café Des Devs",
       "text": "Le Café Des Devs recrute quotidiennement de nouveaux membres pour renforcer notre équipe et offrir le meilleur support possible à nos membres. Si vous êtes intéressé(e) à rejoindre notre équipe, nous vous invitons à cliquer dès maintenant sur le lien de notre serveur Discord ci-dessous pour accéder à notre plateforme de recrutement. En vous joignant à notre serveur Discord, vous pourrez postuler et entamer le processus de candidature.\nNous sommes constamment à la recherche de talents passionnés et motivés, prêts à contribuer à notre communauté dynamique. Rejoignez-nous dès maintenant pour découvrir de nouvelles opportunités et faire partie de notre équipe grandissante. Nous sommes impatients de vous accueillir et de découvrir votre potentiel pour enrichir notre équipe. N'hésitez pas à poser des questions et à interagir avec notre communauté pendant le processus de recrutement. Nous attendons avec enthousiasme votre candidature et sommes convaincus que vous vous épanouirez au sein de notre équipe du Café Des Devs.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/staff.png"
