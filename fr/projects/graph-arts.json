@@ -2,7 +2,7 @@
   "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/cover.png",
   "name": "Graph'Arts",
   "url": "graph-arts",
-  "date": "2022-10-31",
+  "date": "2021-10-31",
   "tags": [
     "Charte Graphique",
     "Projets"
@@ -11,7 +11,7 @@
     {
       "type": "Title",
       "title": "Graph'Arts",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc.",
+      "description": "Graph'Arts est un studio de graphistes proposant des prestations de création de logos, de chartes graphiques, de motion design et répondant à toute autre demande dans le domaine.",
       "tags": [
         "Charte Graphique",
         "Projets"
@@ -21,19 +21,31 @@
     {
       "type": "BasicText",
       "title": "Ce qu'il faut savoir de Graph'Arts",
-      "text": ""
+      "text": "Graph'Arts se distingue en tant que studio de graphistes offrant une gamme complète de services de création visuelle. Leur expertise englobe la conception de logos percutants, de chartes graphiques captivantes et de motion designs dynamiques, tout en étant ouverts à toute autre demande créative dans le domaine. Leur approche méticuleuse leur permet de créer des logos uniques et mémorables, qui capturent l'essence des entreprises de leurs clients et qui se démarquent dans un marché concurrentiel.\nIls comprennent que l'identité visuelle est un élément clé de la stratégie de marque, c'est pourquoi ils travaillent avec soin pour s'assurer que chaque détail du design reflète les valeurs de leurs clients et communique efficacement avec leur public cible. En ce qui concerne les chartes graphiques, ils mettent leur expertise au service de la création d'un ensemble cohérent de lignes directrices visuelles pour les entreprises. Que ce soit dans le choix des couleurs, des typographies ou des éléments graphiques, ils veillent à ce que la charte graphique transmette l'image professionnelle et distincte que leurs clients souhaitent projeter."
     },
     {
       "type": "BigImageText",
       "title": "Élaboration des couleurs",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
+      "text": "Dans le cadre de cette charte graphique, j'ai pris la décision stratégique d'opter pour une palette de couleurs composée de deux teintes distinctes afin de créer un impact visuel fort et mémorable. Pour le logo en particulier, j'ai choisi d'associer un orange vif et énergique avec un rose pastel doux et subtil. L'utilisation de l'orange dans le logo apporte une touche de vitalité, de dynamisme et d'optimisme.\nCette couleur vive évoque l'énergie, la créativité et l'audace, créant ainsi une impression positive et marquante. Elle attire instantanément l'attention du spectateur et suscite un sentiment d'enthousiasme et de confiance. D'autre part, le rose pastel vient équilibrer l'ensemble en ajoutant une dimension de délicatesse, d'harmonie et de féminité. Cette teinte subtile et apaisante évoque la douceur, l'élégance et la tendresse. Elle crée une atmosphère accueillante et chaleureuse, renforçant ainsi l'aspect convivial de la marque. En associant ces deux couleurs complémentaires, j'ai cherché à créer un contraste visuel intéressant qui capte l'attention tout en offrant une esthétique équilibrée. L'orange vibrant vient se mettre en valeur par rapport au rose pastel, créant ainsi un contraste visuel saisissant.   ",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/colors.png"
     },
     {
       "type": "BigImageText",
       "title": "Conception du logo",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
+      "text": "Pour la création de ce logo, j'ai opté pour une approche créative en fusionnant habilement les initiales du projet, soit le \"G\" et le \"A\". Cette décision stratégique a été prise dans le but de représenter de manière élégante et distinctive l'essence même du projet. En combinant les deux lettres, j'ai cherché à créer une synergie visuelle harmonieuse qui incarne à la fois l'identité et les valeurs de la marque.\nL'intégration subtile du \"G\" et du \"A\" permet de générer une nouvelle forme graphique unique et reconnaissable, qui devient ainsi le symbole visuel de l'entreprise. Cette fusion des initiales reflète également l'unité et la cohésion, symbolisant ainsi le caractère collectif et collaboratif du projet. Elle renforce l'idée d'une entité solide et unifiée, prête à relever les défis et à se démarquer dans son domaine. En utilisant cette technique de fusion, j'ai voulu apporter une touche de créativité et d'originalité au logo, tout en conservant une lisibilité et une clarté optimales. La combinaison des formes permet de créer un visuel captivant qui attire l'attention et qui reste facilement mémorisable pour les clients et les utilisateurs. ",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Les mascottes",
+      "text": "ans le cadre de la constitution de leur charte graphique, j'ai également créé une mascotte distinctive pour représenter le studio. Cette mascotte prend la forme d'un petit bonhomme dans un style légèrement cartoon, ajoutant ainsi une touche ludique et sympathique à l'identité visuelle de l'entreprise.\nLa création d'une mascotte est une stratégie efficace pour renforcer l'identité et la personnalité d'une marque. La mascotte devient un personnage emblématique qui incarne les valeurs, l'esprit et les activités du studio Graph'Arts. Le choix d'un petit bonhomme comme mascotte permet de créer une connexion émotionnelle avec le public cible. Ce personnage cartoonesque évoque la jovialité, la créativité et une atmosphère conviviale. Il devient ainsi le représentant visuel de l'entreprise, offrant une présence sympathique et engageante dans les communications visuelles. Cette mascotte peut être utilisée de différentes manières au sein de la charte graphique. Elle peut apparaître sur le logo, les supports marketing, les réseaux sociaux et autres canaux de communication, permettant ainsi d'instaurer une cohérence visuelle et de renforcer la reconnaissance de la marque.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/emotes.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Les bannières",
+      "text": "Pour finaliser cette charte graphique, j'ai créé des bannières qui reflètent l'essence du studio Graph'Arts. Dans un style classique mais raffiné, ces bannières regroupent harmonieusement le logo distinctif ainsi que le nom du studio.\nLes bannières constituent un élément essentiel de la stratégie de branding, car elles servent de support visuel pour promouvoir l'identité de l'entreprise. En combinant le logo et le nom du studio dans ces bannières, nous créons une unité visuelle puissante qui renforce la reconnaissance de la marque. Le choix d'un thème classique apporte une touche d'élégance intemporelle aux bannières. Cela témoigne du professionnalisme et de la crédibilité du studio Graph'Arts, tout en garantissant une esthétique visuelle attrayante et facilement identifiable. L'utilisation des bannières dans la charte graphique offre une cohérence visuelle sur différents supports de communication tels que les sites web, les réseaux sociaux, les affiches et les documents promotionnels. Elles permettent de créer une identité visuelle forte et cohérente, garantissant ainsi une présence de marque solide et reconnaissable.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/banner.png"
     }
   ]
 }
