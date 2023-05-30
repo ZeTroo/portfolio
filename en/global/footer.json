@@ -1,33 +1,29 @@
 {
-  "resume": "Je suis un designer web UI/UX créatif avec plus de 4 ans d'expérience. Je suis également expérimenté dans les domaines de la conception de logo, de la conception de sites web et de la conception de marque.",
-  "develop": "Developpé par",
-  "github": "https://google.com",
-  "behance": "https://google.com",
-  "twitter": "https://google.com",
-  "figma": "https://google.com",
+  "resume": "I am a creative web UI/UX designer with over 4 years of experience. I am also experienced in logo design, web design, and brand design.",
+  "develop": "Developed by",
+  "github": "https://github.com/ZeTro-dev",
+  "behance": "https://www.behance.net/zetro",
+  "twitter": "https://twitter.com/LeZeTro",
+  "figma": "https://www.figma.com/@zetro",
   "shortcut": [
     {
       "title": "Navigation",
       "content": [
         {
-          "name": "Discord",
-          "link": "https://google.com"
+          "name": "Home",
+          "link": "https://zetro.fr"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Projects",
+          "link": "https://zetro.fr/projets"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Templates",
+          "link": "https://zetro.fr/templates"
         },
         {
-          "name": "Hébergeur",
-          "link": "https://google.com"
-        },
-        {
-          "name": "Hébergeur",
-          "link": "https://google.com"
+          "name": "Blog",
+          "link": "https://zetro.fr/blog"
         }
       ]
     },
@@ -39,13 +35,13 @@
           "link": "https://google.com"
         },
         {
-          "name": "Hébergeur",
+          "name": "Hosting",
           "link": "https://google.com"
         }
       ]
     },
     {
-      "title": "Contactez-moi",
+      "title": "Contact me",
       "content": [
         {
           "name": "contact@zetro.fr",

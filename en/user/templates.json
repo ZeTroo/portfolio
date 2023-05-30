@@ -1,0 +1,16 @@
+{
+  "title": "Web Mock-ups",
+  "subTitle": "My creations",
+  "filters": [
+    {
+      "name": "Types",
+      "clear": "All",
+      "tags": [
+        "Dashboard",
+        "Portfolio",
+        "Marketing",
+        "Brochure website"
+      ]
+    }
+  ]
+}

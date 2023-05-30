@@ -1,14 +1,14 @@
 [
   {
-    "name": "Figma",
-    "level": 100
-  },
-  {
-    "name": "Illustrator",
+    "name": "Designer",
     "level": 80
   },
   {
-    "name": "Spline",
+    "name": "Graphic designer",
+    "level": 75
+  },
+  {
+    "name": "Developer",
     "level": 20
   }
 ]

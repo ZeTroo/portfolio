@@ -1,0 +1,30 @@
+{
+  "title": "Software and Proficiencies",
+  "subTitle": "Knowledge",
+  "skills": [
+    {
+      "name": "Photoshop",
+      "level": 45
+    },
+    {
+      "name": "Illustrator",
+      "level": 70
+    },
+    {
+      "name": "Figma",
+      "level": 90
+    },
+    {
+      "name": "AdobeXD",
+      "level": 80
+    },
+    {
+      "name": "Spline",
+      "level": 10
+    },
+    {
+      "name": "Github",
+      "level": 65
+    }
+  ]
+}

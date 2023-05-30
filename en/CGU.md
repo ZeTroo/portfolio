@@ -1,36 +1,33 @@
-<h1 align="center">Conditions Générales d’Utilsations</h1>
-</br>
-<h2 align="center">Article 1 : Les mentions légales</h2>
-<p align="center">L’édition et la direction de la publication du site zetro.fr est assurée par Julien Petit.</br>
-Adresse e-mail: contact@zetro.fr.</br>
-L'hébergeur du site zetro.fr est la société Z-Host.</p>
-</br>
-<h2 align="center">Article 2 : Accès au site</h2>
-<p align="center">Le site <strong>zetro.fr</strong> permet à l'Utilisateur un accès gratuit aux services suivants:</br>
-- <strong>Vente de template web</strong></br>
-- <strong>Vente de logo</strong></br>
-- <strong>Présentation de projets</strong></br>
-</br>
-Le site est accessible gratuitement en tout lieu à tout Utilisateur ayant un accès à Internet. Tous lesfrais supportés par l'Utilisateur pour accéder au service (matériel informatique, logiciels, connexionInternet, etc.) sont à sa charge.</p>
-</br>
-<h2 align="center">Article 3 : Collecte des données</h2>
-<p align="center">Le site est exempté de déclaration à la Commission Nationale Informatique et Libertés (CNIL) dans lamesure où il ne collecte aucune donnée concernant les Utilisateurs.
-</br>
-<h2 align="center">Article 4 : Propriété intellectuelle</h2>
-<p align="center">Les marques, logos, signes ainsi que tous les contenus du site (textes, images, son...) font l'objet d'une protection par le Code de la propriété intellectuelle et plus particulièrement par le droit d'auteur.</br>
-La marque ZeTro est une marque déposée par Julien Petit. Toute représentation et/ou reproduction et/ou exploitation partielle ou totale de cette marque, de quelque nature que ce soit, est totalement prohibée. L'utilisateur doit solliciter l'autorisation préalable du site pour toute reproduction, publication, copie des différents contenus. Il s'engage à une utilisation des contenus du site dans un cadre strictement privé, toute utilisation à des fins commerciales et publicitaires est strictement interdite. Toute représentation totale ou partielle de ce site par quelque procédé que ce soit, sans l’autorisation expresse de l’exploitant du site Internet constituerait une contrefaçon sanctionnée par l’article L 335-2 et suivants du Code de la propriété intellectuelle. Il est rappelé conformément à l’article L122-5 du Code de propriété intellectuelle que l’Utilisateur qui reproduit, copie ou publie le contenu protégé doit citer l’auteur et sa source.</p>
-</br>
-<h2 align="center">Article 5 : Responsabilité</h2>
-<p align="center">Les sources des informations diffusées sur le site zetro.fr sont réputées fiables mais le site ne garantitpas qu’il soit exempt de défauts, d’erreurs ou d’omissions. Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site zetro.fr ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenue responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site. Le site zetro.fr ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter l’ordinateurou tout matériel informatique de l’Internaute, suite à une utilisation, à l’accès, ou au téléchargement provenant de ce site. La responsabilité du site ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d'un tiers.</p>
-</br>
-<h2 align="center">Article 6 : Liens hypertextes</h2>
-<p align="center">Des liens hypertextes peuvent être présents sur le site. L’Utilisateur est informé qu’en cliquant sur ces liens, il sortira du site zetro.fr. Ce dernier n’a pas de contrôle sur les pages web sur lesquelles aboutissent ces liens et ne saurait, en aucun cas, être responsable de leur contenu.</p>
-</br>
-<h2 align="center">Article 7 : Cookies</h2>
-<p align="center">L’Utilisateur est informé que lors de ses visites sur le site, un cookie peut s’installer automatiquementsur son logiciel de navigation. Les cookies sont de petits fichiers stockés temporairement sur le disque dur de l’ordinateur de l’Utilisateur par votre navigateur et qui sont nécessaires à l’utilisation du site zetro.fr. Les cookies ne contiennent pas d’information personnelle et ne peuvent pas être utilisés pour identifier quelqu’un. Un cookie contient un identifiant unique, généré aléatoirement et donc anonyme. Certains cookies expirent à la fin de la visite de l’Utilisateur, d’autres restent. L’information contenue dans les cookies est utilisée pour améliorer le site zetro.fr.</br>
-En naviguant sur le site, L’Utilisateur les accepte. L’Utilisateur doit toutefois donner son consentement quant à l’utilisation de certains cookies. A défaut d’acceptation, l’Utilisateur est informé que certaines fonctionnalités ou pages risquent de lui être refusées.L’Utilisateur pourra désactiver ces cookies par l’intermédiaire des paramètres figurant au sein de son logiciel de navigation.</p>
-</br>
-<h2 align="center">Article 8 : Droit applicable et juridiction compétente</h2>
-<p align="center">La législation française s'applique au présent contrat. En cas d'absence de résolution amiable d'unlitige né entre les parties, les tribunaux français seront seuls compétents pour en connaître. Pour toute question relative à l’application des présentes CGU, vous pouvez joindre l’éditeur aux coordonnées inscrites à l’Article 1.</p>
-</br> </p>
-<p align="center">Date de mise à jour: 02/05/2023</p>
+<h1 align="center">Terms and Conditions of Use</h1>
+<p align="center">Last Updated: 02/05/2023</p>
+
+## Article 1 : Legal Information
+The editing and publishing of the website zetro.fr is managed by **Julien Petit**.</br>
+Email address: **contact@zetro.fr**.</br>
+The hosting provider for the website zetro.fr is the company **Unosea.**.</p>
+
+## Article 2 : Website Access
+The website **zetro.fr** provides the User with free access to the following services:
+- Sale of web templates
+- Sale of logos
+- Project presentations
+
+The site is accessible for free from any location to any User with Internet access. All expenses incurred by the User to access the service (computer equipment, software, Internet connection, etc.) are at their own expense.
+
+## Article 3 : Data Collection
+The website is exempt from declaration to the National Commission on Informatics and Liberty (CNIL) as it does not collect any data concerning Users.
+
+## Article 4 : Propriété intellectuelle
+The trademarks, logos, signs, and all content on the website (text, images, sound, etc.) are protected by the Intellectual Property Code, particularly copyright law. The ZeTro brand is a registered trademark by Julien Petit. Any representation and/or reproduction and/or partial or total exploitation of this trademark, in any form whatsoever, is strictly prohibited. The user must seek prior authorization from the website for any reproduction, publication, or copying of the various content. They commit to using the website's content strictly for private purposes, and any commercial and advertising use is strictly prohibited. Any total or partial representation of this site by any means whatsoever, without the express permission of the website operator, would constitute an infringement punishable under articles L 335-2 and following of the Intellectual Property Code. It is reminded in accordance with article L122-5 of the Intellectual Property Code that the User who reproduces, copies, or publishes protected content must cite the author and the source.
+
+## Article 5 : Responsabilité
+The sources of information published on the website zetro.fr are deemed reliable, but the website cannot guarantee that it is free from defects, errors, or omissions. The information provided is for indicative and general purposes only and has no contractual value. Despite regular updates, zetro.fr cannot be held responsible for changes to administrative and legal provisions that may occur after publication. Likewise, the website cannot be held responsible for the use and interpretation of the information contained on this site. zetro.fr cannot be held liable for any viruses that may infect the User's computer or any other computer equipment after using, accessing, or downloading from this site. The website's liability cannot be engaged in the event of force majeure or the unforeseeable and insurmountable act of a third party.
+
+## Article 6 : Hypertext Links
+Hypertext links may be present on the website. The User is informed that by clicking on these links, they will leave the zetro.fr website. The website has no control over the web pages to which these links lead and cannot be held responsible for their content.
+
+## Article 7 : Cookies
+The User is informed that during their visits to the site, a cookie may be automatically installed on their browsing software. Cookies are small files temporarily stored on the User's computer's hard drive by their browser and are necessary for the use of zetro.fr. Cookies do not contain personal information and cannot be used to identify someone. A cookie contains a unique, randomly generated, and therefore anonymous identifier. Some cookies expire at the end of the User's visit, while others remain. The information contained in cookies is used to improve zetro.fr. By browsing the site, the User accepts the use of cookies. However, the User must give their consent to the use of certain cookies. In the absence of acceptance, the User is informed that certain features or pages may be denied to them. The User can disable these cookies through the settings in their browsing software.
+
+## Article 8: Applicable Law and Competent Jurisdiction
+French law applies to this contract. In the event of failure to reach an amicable resolution of a dispute arising between the parties, the French courts shall have sole jurisdiction to hear it. For any questions regarding the application of these Terms and Conditions, you can contact the publisher using the contact details provided in Article 1.

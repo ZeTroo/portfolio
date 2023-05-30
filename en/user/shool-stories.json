@@ -1,22 +1,12 @@
 {
-  "title": "Expériences de travail",
-  "subTitle": "PARCROUS PROFESSIONNEL",
-  "resume": "Depuis plus de 4 ans, j'apprends continuellement dans le domaine du design web, graphisme et j'expérimente de nouvelles approches et de nouveaux styles. Vous trouverez ici un résumé de mes compétences.",
+  "title": "Work experiences",
+  "subTitle": "Learning path",
+  "resume": "For over 4 years, I have been continuously learning in the field of web design and graphic design, constantly experimenting with new approaches and styles. Here is a summary of my skills.",
   "schools": [
     {
-      "name": "Liscence Marketing",
-      "date": "2026 - 2029",
-      "location": "Bordeaux, France"
-    },
-    {
-      "name": "Liscence Marketing",
-      "date": "2026 - 2029",
-      "location": "Bordeaux, France"
-    },
-    {
-      "name": "Liscence Marketing",
-      "date": "2026 - 2029",
-      "location": "Bordeaux, France"
+      "name": "BAC STI2D",
+      "date": "2020 - 2023",
+      "location": "Dourdan, France"
     }
   ]
 }

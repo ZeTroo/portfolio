@@ -1,18 +1,18 @@
 {
-  "title": "Spécialisé dans",
-  "subTitle": "SERVICES",
+  "title": "Specialized in",
+  "subTitle": "Services",
   "cards": [
     {
       "title": "UI/UX Design",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "content": "Passionate web designer, I create elegant and functional interfaces for unique user experiences."
     },
     {
-      "title": "Graphiste",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "title": "Graphic designer",
+      "content": "Creative graphic designer for original and impactful designs, I create visuals that reflect the identity and goals of my clients."
     },
     {
-      "title": "Web Development",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed suscipit condimentum dolor. Nullam eu sollicitudin lacus."
+      "title": "Developer",
+      "content": "Versatile and passionate developer, I leverage my skills to work on diverse projects, creating unique and functional digital experiences."
     }
   ]
 }

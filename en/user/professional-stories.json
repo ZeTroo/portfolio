@@ -1,55 +1,21 @@
 {
-  "title": "Expériences de travail",
-  "subTitle": "PARCROUS PROFESSIONNEL",
+  "title": "Work experiences",
+  "subTitle": "PPROFESSIONAL CAREER",
   "stories": [
     {
       "company": "UmboFrance",
-      "date": "Nov 2022 - Janv 2023 · Temps partiel",
+      "date": "Nov 2022 - Janv 2023 · Part-time",
       "location": "Paris, France",
-      "title": "Graphiste",
+      "title": "Graphic designer",
       "content": [
-        "Conception de A à  Z de la charte graphique de la marque.",
-        "Élaboration d’une Direction artistiques atractive pour le domaine.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "End-to-end design of the brand's graphic identity.",
+        "Development of an attractive artistic direction for the domain.",
+        "Management of project communication."
       ],
       "tags": [
-        "Charte Graphique",
-        "Logo"
-      ]
-    },
-    {
-      "company": "company2",
-      "date": "Nov 2022 - Janv 2023 · Temps partiel",
-      "location": "Paris, France",
-      "title": "Graphiste2",
-      "content": [
-        "Conception de A à  Z de la charte graphique de la marque.",
-        "Élaboration d’une Direction artistiques atractive pour le domaine.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      ],
-      "tags": [
-        "Charte Graphique",
-        "Logo"
-      ]
-    },
-    {
-      "company": "company3",
-      "date": "Nov 2022 - Janv 2023 · Temps partiel",
-      "location": "Paris, France",
-      "title": "Graphiste3",
-      "content": [
-        "Conception de A à  Z de la charte graphique de la marque.",
-        "Élaboration d’une Direction artistiques atractive pour le domaine.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-      ],
-      "tags": [
-        "Charte Graphique",
-        "Logo"
+        "Branding"
       ]
     }
   ]
 }
+
