@@ -21,7 +21,7 @@
     {
       "type": "BasicText",
       "title": "Ce qu'il faut savoir de Game Log Manager",
-      "text": ""
+      "text": "Il s'agit d'une application web hautement fonctionnelle et conviviale, spécialement conçue pour répondre aux besoins de gestion et d'exploitation des logs de serveurs de jeux vidéo. Cette application offre une solution complète et puissante pour les entreprises et les organisations qui hébergent et opèrent des serveurs de jeux. L'une des principales caractéristiques de cette application est sa capacité à faciliter la gestion des utilisateurs et de leurs permissions. Grâce à une interface intuitive et conviviale, les administrateurs système peuvent facilement attribuer des rôles et des autorisations spécifiques à chaque utilisateur. Cela permet un contrôle granulaire sur les actions et les accès des utilisateurs, assurant ainsi la sécurité et la confidentialité des données sensibles.\nOutre sa fonction de gestion des utilisateurs, cette application offre également un ensemble d'outils performants aux développeurs de jeux. Ces outils permettent de surveiller en temps réel les performances des serveurs de jeux, de collecter et d'analyser les logs pour détecter d'éventuels problèmes et d'apporter des solutions rapides. Cela permet aux développeurs de garantir une expérience de jeu fluide et sans interruptions pour les joueurs, améliorant ainsi la rétention des utilisateurs et la satisfaction globale."
     },
     {
       "type": "BigImageText",
@@ -32,20 +32,16 @@
     {
       "type": "BigImageText",
       "title": "Conception du logo",
-      "text": "",
+      "text": "Pour ce logo, je suis resté sur quelque chose d'assez simpliste et léger. C'est donc pour cela que j'ai choisi un cube pour faire référence au monde de \"Minecraft\". J'ai donc inséré les initiales du projet \"G, L, M\".\n\nDans le cas présent, la référence à \"Minecraft\" est pertinente puisqu'il s'agit d'un jeu vidéo très populaire auprès d'un public jeune et connecté. Le cube est un élément graphique simple mais efficace pour évoquer cet univers. Quant aux initiales \"G, L, M\", elles permettent de rappeler le nom du projet de manière discrète.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logotype.png"
     },
     {
-      "type": "ImageText",
-      "title": "Blabla",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna nibh, pulvinar eget porttitor id, faucibus eget quam. Morbi sit amet est vitae tellus auctor tempus. Curabitur sed odio nulla. Proin quis aliquet nunc. Nullam tincidunt augue nec neque ultrices, eu fermentum metus volutpat. Praesent lobortis sed libero non volutpat. Donec varius mi fermentum, laoreet sapien at, varius augue. Sed euismod commodo interdum. Suspendisse a turpis vitae risus ultrices varius. Aliquam eleifend tristique ultricies. In finibus laoreet neque eu facilisis. Pellentesque vel metus arcu. Ut at pulvinar urna. Aenean sed lacinia nisi. Nam nec felis faucibus, iaculis odio ut, vestibulum leo. Nullam a dui gravida, vehicula elit at, viverra odio. ",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/2048px-LEGO_logo.svg.png"
-    },
-    {
       "type": "BigImageText",
-      "title": "Création du logo du projet",
-      "text": "Pour ce logo, je suis resté sur quelque chose d'assez simpliste et léger. C'est donc pour cela que j'ai choisi un cube pour faire référence au monde de \"Minecraft\". J'ai donc inséré les initiales du projet \"G, L, M\".\n\nDans le cas présent, la référence à \"Minecraft\" est pertinente puisqu'il s'agit d'un jeu vidéo très populaire auprès d'un public jeune et connecté. Le cube est un élément graphique simple mais efficace pour évoquer cet univers. Quant aux initiales \"G, L, M\", elles permettent de rappeler le nom du projet de manière discrète.",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/make_logo.png"
+      "title": "Maquette web",
+      "text": "test",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png",
+      "text": "test",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
     },
     {
       "type": "Contributor",
