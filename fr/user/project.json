@@ -6,20 +6,11 @@
       "name": "Types",
       "clear": "Tout",
       "tags": [
-        "Design Web",
+        "Web Design",
         "Programmation",
         "Projets",
         "Charte Graphique",
         "Logotype"
-      ]
-    },
-    {
-      "name": "Languages",
-      "clear": "Tout",
-      "tags": [
-        "Javascript",
-        "HTML/CSS",
-        "Python"
       ]
     }
   ]

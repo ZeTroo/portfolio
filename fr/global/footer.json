@@ -15,19 +15,15 @@
         },
         {
           "name": "Projets",
-          "link": "https://zetro.fr/projets"
-        },
-        {
-          "name": "Templates",
-          "link": "https://zetro.fr/templates"
+          "link": "https://zetro.fr/projects"
         },
         {
           "name": "Blog",
           "link": "https://zetro.fr/blog"
         },
         {
-          "name": "Logo",
-          "link": "https://zetro.fr/logo"
+          "name": "Templates",
+          "link": "https://zetro.fr/templates"
         }
       ]
     },
@@ -36,11 +32,11 @@
       "content": [
         {
           "name": "Discord",
-          "link": "https://google.com"
+          "link": "https://discord.gg/5vkRxkDDFy"
         },
         {
           "name": "Hébergeur",
-          "link": "https://google.com"
+          "link": "https://panel.unosea.fr"
         }
       ]
     },
