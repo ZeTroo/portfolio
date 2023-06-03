@@ -78,11 +78,6 @@
       "title": "Découvrez nos réseaux ci-dessous",
       "links": [
         {
-          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
-          "name": "Site Web",
-          "link": "https://cafedesdevs.fr"
-        },
-        {
           "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
           "name": "Discord",
           "link": "https://discord.gg/cafedesdevs"

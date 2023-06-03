@@ -1,0 +1,88 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/cover.png",
+  "name": "Café Des Devs",
+  "url": "cafe-des-devs",
+  "date": "2021-01-27",
+  "tags": [
+    "Branding",
+    "Projects"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Café Des Devs",
+      "description": "The Café Des Devs is an online community for developers who seek to help and share their knowledge with one another.",
+      "tags": [
+        "Branding",
+        "Projects"
+
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "What you need to know about Café Des Devs",
+      "text": "Café Des Devs is much more than just an online community for developers. It is a true space for sharing, mutual support, and collaboration. Since its creation on January 23, 2021, by ZeTro, this project has experienced rapid growth, attracting developers of all levels and backgrounds. Originally, the idea was to create a French-speaking community dedicated to programming assistance, but it didn't stop there. Café Des Devs has also established a website offering a multitude of free training courses and resources, aiming to help members continue to progress and excel in their field. Thanks to the efforts and passion of its members, Café Des Devs achieved Discord partnership in July 2022. This helped solidify the community by providing an even more dynamic and friendly space for discussion and exchange. Today, the Café Des Devs Discord server has over 1500 members, all driven by a common passion for development and programming. Within this active and dynamic community, you will find insightful advice, valuable resources, and an atmosphere of emulation conducive to learning and growth. Whether you are a beginner looking to acquire the basics or an experienced developer wanting to stay up-to-date with the latest trends, Café Des Devs is a place of exchange and sharing where you can grow professionally and personally."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Color Development",
+      "text": "For the design of this logo, I carefully used a total of four distinct colors to effectively convey the intended visual message. Beginning with a warm beige tone, I aimed to represent the authentic and comforting color of coffee, creating a direct connection with the product itself. Additionally, to emphasize the evocative aspect of coffee smoke, I chose a lighter variation of the initial beige hue, providing a subtle shade that enhances the sensory and gustatory dimension of the coffee experience. As for the additional colors, I opted for classic and timeless choices. White, symbolizing purity and clarity, was used for the rest of the logo, offering a striking contrast with the beige tones and adding a touch of lightness and modernity to the overall composition. Finally, to provide a solid and impactful foundation for the logo, I incorporated a deep and dark black hue for the background, creating an impression of depth and sophistication.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo Design",
+      "text": "In the process of designing this logo, I wanted to merge the world of coffee with a reference to programming. To achieve this, I used curly braces \"{ }\", widely recognized in the development field, and creatively incorporated them. I skillfully combined these two elements to form a visual representation of a coffee cup, where the braces transform into a handle while the content of the cup represents the coffee. By harmoniously uniting these two concepts, I was able to create a unique logo that evokes both the warm universe of coffee and the spirit of programming. This clever combination of coffee and braces visually adds a touch of originality and relevance while capturing the attention of those who see it. This logo offers an attractive visual representation, simultaneously conveying aspects related to coffee and programming in a distinctive and memorable way.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Our Mascots",
+      "text": "We chose to represent the developer community through small coffee mascots. These coffee emotes were created to represent the different expressions of the community, ranging from joy to frustration to concentration. The choice of coffee emotes is not coincidental. Firstly, it represents the name of the community. But beyond that, developers are often associated with coffee consumption, which makes these mascots even more representative of the community. The coffee emotes have become an integral part of the visual identity of Café Des Devs and are used to express emotions during online conversations.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/emotes.png"
+    },
+    {
+      "type": "Warning",
+      "title": "Tout droits réservés",
+      "text": "All creations associated with Café Des Devs, including logos, emotes, banners, documents, and other content, are protected by intellectual property rights. Any use of these creations for commercial purposes without the explicit permission of Café Des Devs is strictly prohibited and may result in legal action. We take the protection of our creations very seriously and reserve the right to take appropriate legal measures to safeguard our intellectual property rights. We invite individuals interested in using our creations to contact us at contact@cafedesdevs.fr to obtain the necessary permission."
+    },
+    {
+      "type": "Contributor",
+      "title": "The creators",
+      "contributors": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zetro.png",
+          "name": "Zetro",
+          "tags": [
+            "Owner"
+          ]
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/letter/letter_o.png",
+          "name": "Oneil Walsh",
+          "tags": [
+            "Co-owner"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ImageText",
+      "title": "The team at Café Des Devs",
+      "text": "Café Des Devs is recruiting new members daily to strengthen our team and provide the best possible support to our community. If you're interested in joining our team, we invite you to click on the Discord server link below to access our recruitment platform. By joining our Discord server, you'll be able to apply and start the application process. We're constantly seeking passionate and motivated individuals who are ready to contribute to our dynamic community. Join us now to discover new opportunities and be part of our growing team. We look forward to welcoming you and exploring your potential to enhance our team. Feel free to ask questions and engage with our community during the recruitment process. We eagerly await your application and are confident that you will thrive within our Café Des Devs team.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/cafedesdevs/staff.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Discover our social media platforms below",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+          "name": "Discord",
+          "link": "https://discord.gg/cafedesdevs"
+        }
+      ]
+    }
+  ]
+}
