@@ -1,0 +1,66 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/cover.png",
+  "name": "Dev'Area",
+  "url": "dev-area",
+  "date": "2022-10-31",
+  "tags": [
+    "Branding"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Dev'Area",
+      "description": "Dev'Area is a Discord community focused on mutual assistance in the field of development and the search for developers. It offers channels dedicated to services and research, intended to support developers in their projects!",
+      "tags": [
+        "Branding"
+
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "What you need to know about Dev'Area",
+      "text": "Dev'Area is a Discord community of mutual aid dedicated to developers. The project aims to create a collaborative environment where developers can come together, exchange knowledge, and find support. The primary goal of Dev'Area is to foster the professional and personal growth of developers by offering them a space where they can interact with each other. The community encourages technical discussions, resource sharing, and allows members to collaborate on common projects. By exchanging their ideas and experiences, developers can find solutions to their problems, discover new technologies, and improve their skills."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Color Development",
+      "text": "For this logo, I used a color palette consisting of four distinct shades. I started by using white to highlight the text and the name of the project. Next, I chose a dark color for the background to create a contrast with the vibrant colors of the logo. For the primary colors of the logo, I deliberately opted for warm hues, specifically orange and yellow. This decision was made with the aim of standing out from traditional colors such as green, often associated with programming. By choosing warm colors, I wanted to bring a touch of originality and energy to the logo, while maintaining some coherence with the concept of street art. The use of these warm colors serves to captivate attention and communicate a feeling of enthusiasm and dynamism. They complement the style of the logo and reinforce its visual impact. Overall, the color palette chosen for this logo is the result of strategic thinking aimed at conveying both the values of the project and at standing out visually.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo Design",
+      "text": "For the creation of this logo, I was guided by the idea of merging a classic side with emblematic elements of programming. This is how I chose to incorporate the distinctive \"</>\" symbol into the design. This symbol is widely recognized in the developer community as the closing tag used in certain programming languages. Regarding the style of the logo, I decided to explore an approach inspired by street art. By using graphic elements inspired by street art, I sought to add a touch of spontaneity and creativity to the logo. The lines and shapes are drawn expressively, thus evoking the energy and passion associated with programming. This combination of the classic aesthetic of programming and the bold style of street art gives birth to a distinctive logo that powerfully represents both the project and its name.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "The icons",
+      "text": "I also created custom icons and badges for the community to give a unique identity to the Dev'Area Discord server, while maintaining the same style as the logo. In designing these icons and badges, I sought to maintain visual consistency with the main logo. I used the same colors, the same graphic elements, and the same street-art inspired style to create visual harmony. The icons and badges were designed to represent different features, roles, or categories within the Discord community. They are visually striking and easily recognizable, which helps to create a pleasant and memorable user experience.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/icons.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "The Banners",
+      "text": "In addition to the graphic charter, I also created banners for the Dev'Area Discord server to enhance the consistent visual aspect of their brand. Below are some examples of these banners. These banners were designed considering the key elements of the existing graphic charter. I used the colors, patterns, and graphic elements already present in the logo and icons, to ensure visual continuity. The goal was to create eye-catching banners that capture the attention of Discord server members. I made sure they were aesthetically appealing, while conveying the values and identity of Dev'Area.\nThese banners are intended to complement the overall graphic charter and bring a consistent visual identity to all aspects of the Discord server. They also serve to highlight important information, upcoming events, or special updates.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/dev-area/banner.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Discover our social media platforms below",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+          "name": "Discord",
+          "link": "https://discord.gg/dev-area-768370886532137000"
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
+          "name": "Web Site",
+          "link": "https://devarea.fr"
+        }
+      ]
+    }
+  ]
+}
