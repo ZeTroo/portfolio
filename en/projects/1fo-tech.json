@@ -1,0 +1,49 @@
+{
+    "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/cover.png",
+    "name": "1fo-Tech",
+    "url": "1fo-tech",
+    "date": "2023-06-08",
+    "tags": [
+      "Logotype"
+    ],
+    "contents": [
+      {
+        "type": "Title",
+        "title": "1fo-Tech",
+        "description": "1fo-Tech is a company specializing in the design and manufacture of extremely powerful computing machines.",
+        "tags": [
+          "Logotype"
+        ],
+        "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/logo.png"
+      },
+      {
+        "type": "BasicText",
+        "title": "What you need to know about 1fo-Tech",
+        "text": "1fo-Tech is a company specializing in the design and manufacture of extremely powerful computing machines. Elle se distingue en offrant des services d'accompagnement personnalisés pour aider ses clients à choisir les composants les plus performants, tout en respectant leur budget. En tant qu'expert autonome dans la conception et le montage d'ordinateurs et de serveurs, 1fo-tech offre à ses clients la possibilité d'utiliser des technologies de pointe telles que le watercooling, le directcooling et même l'immersion. Grâce à son expertise approfondie, 1fo-tech est en mesure de proposer des solutions sur mesure répondant aux besoins spécifiques de ses clients en termes de puissance de calcul.\nQue ce soit pour des applications scientifiques intensives, des rendus graphiques exigeants ou des projets nécessitant des capacités de traitement avancées tels que l'intelligence artificielle ou le deep learning, 1fo-tech offre des conseils avisés pour maximiser les performances. En plus de ses services de conseil, 1fo-tech assume la responsabilité de la conception et du montage des machines, en garantissant un haut niveau de qualité et de fiabilité. Son expertise dans les technologies de refroidissement avancées permet à ses clients de bénéficier de performances optimales tout en maintenant une température de fonctionnement efficace."
+      },
+      {
+        "type": "BigImageText",
+        "title": "Élaboration des couleurs",
+        "text": "For the design of this logo, I took care to use a harmonious blend of colors, notably yellow and white. This choice of colors was deliberate to create a captivating visual effect and highlight the unique features of the logo. Yellow, as a vibrant and dynamic color, often symbolizes creativity, energy, and optimism. It grabs attention and evokes positive emotions.\nBy combining it with white, which represents purity, simplicity, and clarity, I created a visual contrast that enhances the impact of the logo. By carefully blending these two hues, I was able to achieve a perfect balance between the liveliness of yellow and the softness of white. This allows the logo to visually stand out and attract the viewer's eye.In addition to the aesthetic aspect, the choice of yellow and white can also convey subtle messages related to the brand or the identity it represents. For example, yellow can evoke innovation, boldness, and an entrepreneurial spirit, while white can symbolize transparency, purity of intentions, and the simplicity of the solutions offered.",
+        "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/colors.png"
+      },
+      {
+        "type": "BigImageText",
+        "title": "Conception du logo",
+        "text": "For the creation of this logo, I carefully selected and combined two key elements that perfectly represent the essence of the company. The first element is the processor, an iconic symbol of computer technology and hardware in general. It embodies the power of computation, technological innovation, and performance that characterize the company's activity. The second element is the gear, a symbol of computer management and manufacturing. It represents organization, coordination, and the efficient production process required to create high-quality machines.\nThe gear also symbolizes precision, synchronization, and collaboration, which are essential elements to ensure the smooth operation and reliability of the company's products. By combining these two elements harmoniously, I was able to create a logo that embodies the company's expertise in the field of computer technology and its ability to provide high-performance and reliable solutions. This logo visually captures the company's commitment to innovation, quality, and operational excellence. In addition to representing the company's identity, this logo also aims to resonate with the target audience.\nBy seeing the processor and the gear combined, potential customers will quickly identify the technical expertise and the company's capability to provide solutions tailored to their hardware needs.",
+        "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/1fo-tech/logotype.png"
+      },
+      {
+        "type": "ExternalLinks",
+        "title": "Découvrez leurs réseaux ci-dessous",
+        "links": [
+          {
+            "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+            "name": "Discord",
+            "link": "https://discord.gg/1fo-tech"
+          }
+        ]
+      }
+    ]
+  }
+  
