@@ -1,0 +1,51 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/cover.png",
+  "name": "Graph'Arts",
+  "url": "graph-arts",
+  "date": "2021-10-31",
+  "tags": [
+    "Branding",
+    "Projects"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Graph'Arts",
+      "description": "Graph'Arts is a graphic design studio offering services for logo design, graphic identity creation, motion design, and fulfilling any other requests in the field.",
+      "tags": [
+        "Branding",
+        "Projects"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "What you need to know about Graph'Arts",
+      "text": "Graph'Arts stands out as a graphic design studio offering a comprehensive range of visual creation services. Their expertise encompasses crafting impactful logos, captivating graphic identities, and dynamic motion designs, while being open to any other creative requests in the field. Their meticulous approach allows them to create unique and memorable logos that capture the essence of their clients' businesses and stand out in a competitive market. They understand that visual identity is a key element of brand strategy, which is why they work diligently to ensure that every design detail reflects their clients' values and effectively communicates with their target audience. When it comes to graphic identities, they leverage their expertise to create a cohesive set of visual guidelines for businesses. Whether it's the choice of colors, typography, or graphic elements, they ensure that the graphic identity conveys the professional and distinctive image their clients seek to project."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Color Development",
+      "text": "As part of this graphic identity, I have made the strategic decision to opt for a color palette composed of two distinct shades to create a strong and memorable visual impact. Specifically for the logo, I have chosen to combine a vibrant and energetic orange with a soft and subtle pastel pink. The use of orange in the logo brings a touch of vitality, dynamism, and optimism. This bright color evokes energy, creativity, and boldness, creating a positive and impactful impression. It instantly grabs the viewer's attention and elicits a sense of enthusiasm and confidence. On the other hand, the pastel pink balances the overall composition by adding a dimension of delicacy, harmony, and femininity. This subtle and soothing shade conveys gentleness, elegance, and tenderness. It creates a welcoming and warm atmosphere, reinforcing the brand's friendly aspect. By combining these two complementary colors, I aimed to create an interesting visual contrast that captures attention while offering a balanced aesthetic. The vibrant orange stands out in comparison to the pastel pink, creating a striking visual contrast.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo Design",
+      "text": "For the creation of this logo, I opted for a creative approach by skillfully merging the initials of the project, namely the \"G\" and the \"A\". This strategic decision was made with the purpose of elegantly and distinctively representing the very essence of the project. By combining the two letters, I sought to create a harmonious visual synergy that embodies both the identity and values of the brand. The subtle integration of the \"G\" and the \"A\" generates a new, unique, and recognizable graphic shape that becomes the visual symbol of the company. This fusion of initials also reflects unity and cohesion, symbolizing the collective and collaborative nature of the project. It reinforces the idea of a solid and unified entity, ready to face challenges and stand out in its field. By using this fusion technique, I aimed to bring a touch of creativity and originality to the logo while maintaining optimal readability and clarity. The combination of shapes creates a captivating visual that grabs attention and remains easily memorable for clients and users.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "The Mascots",
+      "text": "As part of the development of their graphic identity, I also created a distinctive mascot to represent the studio. This mascot takes the form of a small character in a slightly cartoon style, adding a playful and friendly touch to the visual identity of the company. Creating a mascot is an effective strategy to reinforce the identity and personality of a brand. The mascot becomes an iconic character that embodies the values, spirit, and activities of Graph'Arts studio. Choosing a small character as the mascot helps establish an emotional connection with the target audience. This cartoon-like character evokes cheerfulness, creativity, and a friendly atmosphere. It becomes the visual representative of the company, offering a likable and engaging presence in visual communications. This mascot can be used in various ways within the graphic identity. It can appear on the logo, marketing materials, social media, and other communication channels, thus establishing visual coherence and enhancing brand recognition.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/emotes.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "The Banners",
+      "text": "To finalize this graphic identity, I have created banners that reflect the essence of Graph'Arts studio. In a classic yet refined style, these banners elegantly combine the distinctive logo with the studio's name. Banners play a crucial role in branding strategy as they serve as visual supports to promote the company's identity. By combining the logo and studio name in these banners, we create a powerful visual unity that enhances brand recognition. The choice of a classic theme adds a touch of timeless elegance to the banners. It signifies the professionalism and credibility of Graph'Arts studio while ensuring an appealing and easily identifiable visual aesthetic. The use of banners within the graphic identity provides visual coherence across various communication platforms such as websites, social media, posters, and promotional materials. They help create a strong and consistent visual identity, ensuring a solid and recognizable brand presence.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/graph-arts/banner.png"
+    }
+  ]
+}
