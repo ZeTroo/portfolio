@@ -1,0 +1,49 @@
+{
+    "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/cover.png",
+    "name": "Devos Code",
+    "url": "devos-code",
+    "date": "2023-06-10",
+    "tags": [
+      "Logotype"
+    ],
+    "contents": [
+      {
+        "type": "Title",
+        "title": "Devos Code",
+        "description": "Devos Code is a dynamic Discord community that emphasizes mutual assistance and knowledge sharing in the field of programming. Since its inception, this community has grown rapidly and now proudly boasts over 2600 members.",
+        "tags": [
+          "Logotype"
+        ],
+        "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/logo.png"
+      },
+      {
+        "type": "BasicText",
+        "title": "What you need to know about Devos Code",
+        "text": "Devos Code is a dynamic and friendly Discord community that focuses on helping each other and sharing knowledge in the field of programming. Since its creation, this community has grown rapidly and now proudly boasts over 2600 passionate members. Whether you are a curious beginner, a eager-to-learn student, or an experienced developer, you will find a welcoming environment at Devos Code where you can ask questions, exchange ideas, and collaborate with like-minded individuals.\nCommunity members are open and ready to offer their expertise to help you overcome programming challenges, whether it's in popular languages like Python, Java, JavaScript, or more specialized areas such as artificial intelligence, web development, or mobile applications. Dive into a world of collaborative coding, continuous learning, and professional growth!"
+      },
+      {
+        "type": "BigImageText",
+        "title": "Color Development",
+        "text": "In order to attract visitors' attention optimally, I consciously used vibrant and eye-catching colors to design the logo. During the creation process, I prioritized the use of red and a shade of beige as the main colors, which were skillfully combined to form a harmonious gradient. The choice of red brings a sense of energy, urgency, and passion, while the beige adds warmth and elegance. These two colors complement each other and create a dynamic visual combination that easily catches the eye. To further emphasize and highlight the logo's colors, I opted for a subtle secondary color, namely white, for the background. This strategic decision was made to create a striking contrast and ensure optimal legibility of the logo, with a focus on the main colors.",
+        "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/colors.png"
+      },
+      {
+        "type": "BigImageText",
+        "title": "Logo Design",
+        "text": "When designing this logo, I focused on a classic style that highlights the project's initials, namely the letters \"D\" and \"C\". I dedicated time and attention to their arrangement, aiming to create a harmonious and aesthetically pleasing composition. By cleverly merging the letters \"D\" and \"C\", I managed to give the logo a unique and recognizable identity. The combination of shapes and contours of the letters was carefully executed to create a balanced and visually appealing composition. The choice of a classic style for this logo brings a timeless and elegant touch while conveying a sense of trust and professionalism. The carefully designed and assembled project initials capture the essence of the brand's identity in a concise and memorable way.",
+        "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/logotype.png"
+      },
+      {
+        "type": "ExternalLinks",
+        "title": "Discover our social media platforms below",
+        "links": [
+          {
+            "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+            "name": "Discord",
+            "link": "https://discord.gg/devos-code-759432409400999967"
+          }
+        ]
+      }
+    ]
+  }
+  
