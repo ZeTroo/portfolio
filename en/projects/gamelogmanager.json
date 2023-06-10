@@ -1,0 +1,70 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/cover.png",
+  "name": "GameLogManager",
+  "url": "game-log-manager",
+  "date": "2022-10-31",
+  "tags": [
+    "Branding",
+    "Web Design"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Game Log Manager",
+      "description": "This is a web application designed to manage and leverage logs from video game servers. It also allows for user management and permissions control. Additionally, game developers can utilize it to monitor performance and troubleshoot issues on game servers.",
+      "tags": [
+        "Branding",
+        "Web Design"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "What you need to know about Game Log Manager",
+      "text": "This is a highly functional and user-friendly web application specifically designed to meet the needs of managing and leveraging logs from video game servers. This application provides a comprehensive and powerful solution for businesses and organizations hosting and operating game servers. One of its key features is the ability to streamline user management and permissions. With an intuitive and user-friendly interface, system administrators can easily assign specific roles and permissions to each user. This allows for granular control over user actions and access, ensuring the security and confidentiality of sensitive data. In addition to user management, this application offers a set of powerful tools for game developers. These tools enable real-time monitoring of game server performance, collecting and analyzing logs to detect any potential issues and provide quick solutions. This allows developers to ensure a smooth and uninterrupted gaming experience for players, ultimately improving user retention and overall satisfaction."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Color Development",
+      "text": "Using a gradient of colors based on purple brings an immersive and dynamic atmosphere to your video game logs website. Purple is often associated with technology and the virtual world, making it a relevant choice for a website focused on gaming. Starting with a deep shade of purple, you can gradually transition the gradient to lighter shades of purple or other complementary colors. This will create a smooth and appealing transition, reminiscent of virtual gaming worlds. Adding touches of vibrant and bright colors can further energize the gradient. For example, accents of electric blue, bright pink, or vibrant green can be used to highlight specific elements of the website, such as action buttons or important sections.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo Design",
+      "text": "For this logo, I opted for something simple and lightweight. That's why I chose a cube to reference the world of \"Minecraft\". I incorporated the initials of the project, \"G, L, M\". In this case, the reference to \"Minecraft\" is relevant as it is a very popular video game among a young and connected audience. The cube is a simple yet effective graphic element to evoke that universe. As for the initials \"G, L, M\", they discreetly remind us of the project's name.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Web Design",
+      "text": "In creating the web mockup for this project, my goal was to create an immersive visual experience inspired by the world of gaming. I deliberately chose rounded shapes as they bring a sense of softness and ergonomics to the overall design. This rounded aesthetic creates a feeling of friendliness and comfort, inviting users to immerse themselves in the website's universe. Regarding the arrangement of elements, simplicity and clarity were prioritized. I ensured that each component of the mockup is easily identifiable and understandable for visitors. By minimizing unnecessary elements and simplifying interfaces, I aimed to provide an intuitive and seamless user experience. The main objective of this web mockup is to strike a balance between an attractive gaming style and practical usability. I worked on creating an aesthetically pleasing interface while emphasizing ease of use and clarity of information to ensure a pleasant user experience.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/design_web.png"
+    },
+    {
+      "type": "Contributor",
+      "title": "Contributeur",
+      "contributors": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zelytra.png",
+          "name": "Zelytra",
+          "tags": [
+            "Developper"
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "ExternalLinks",
+      "title": "Discover our social media platforms below",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
+          "name": "Site Web",
+          "link": "https://glm.zelytra.fr/"
+        }
+      ]
+    }
+  ]
+}

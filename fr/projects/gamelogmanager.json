@@ -26,7 +26,7 @@
     {
       "type": "BigImageText",
       "title": "Élaboration des couleurs",
-      "text": "",
+      "text": "L'utilisation d'un dégradé de couleurs basé sur le violet apporte une atmosphère immersive et dynamique à votre site de logs pour les jeux vidéo. Le violet est souvent associé à la technologie et à l'univers virtuel, ce qui en fait un choix pertinent pour un site axé sur les jeux vidéo. En commençant par une teinte violette profonde, vous pouvez progressivement faire évoluer le dégradé vers des nuances plus claires de violet ou d'autres couleurs complémentaires. Cela créera une transition fluide et attrayante, rappelant les univers virtuels des jeux vidéo. Il peut être intéressant d'ajouter des touches de couleurs vives et éclatantes pour dynamiser davantage le dégradé. Par exemple, des accents de bleu électrique, de rose vif ou de vert lumineux peuvent être utilisés pour mettre en valeur des éléments spécifiques du site, tels que les boutons d'action ou les sections importantes.",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/colors.png"
     },
     {
@@ -38,10 +38,8 @@
     {
       "type": "BigImageText",
       "title": "Maquette web",
-      "text": "test",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png",
-      "text": "test",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/logo.png"
+      "text": "Dans la réalisation de la maquette web pour ce projet, j'ai cherché à créer une expérience visuelle immersive en m'inspirant du monde du gaming. J'ai consciemment opté pour des formes aux contours arrondis, car elles apportent une touche de douceur et d'ergonomie à l'ensemble du design. Cette esthétique arrondie donne une sensation de convivialité et de confort, invitant les utilisateurs à se plonger dans l'univers du site. En ce qui concerne la disposition des éléments, j'ai privilégié la simplicité et la clarté. J'ai veillé à ce que chaque composant de la maquette soit facilement identifiable et compréhensible pour les visiteurs. En réduisant les éléments superflus et en simplifiant les interfaces, j'ai cherché à offrir une expérience utilisateur intuitive et fluide. L'objectif principal de cette maquette web est donc de créer un équilibre entre un style gaming attrayant et une utilisation pratique. J'ai ainsi travaillé à la création d'une interface esthétiquement plaisante, tout en mettant en avant la facilité d'utilisation et la clarté des informations pour garantir une expérience agréable aux utilisateurs.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/glm/design_web.png"
     },
     {
       "type": "Contributor",
