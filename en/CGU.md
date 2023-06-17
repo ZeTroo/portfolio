@@ -1,5 +1,5 @@
 <h1 align="center">Terms and Conditions of Use</h1>
-<p align="center">Last Updated: 02/05/2023</p>
+<center>Last Updated: 02/05/2023</center>
 
 ## Article 1 : Legal Information
 The editing and publishing of the website zetro.fr is managed by **Julien Petit**.</br>

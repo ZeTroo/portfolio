@@ -1,5 +1,5 @@
 <h1 align="center">Conditions Générales d’Utilsations</h1>
-<p align="center">Date de mise à jour: 02/05/2023</p>
+<center>Date de mise à jour: 02/05/2023</center>
 
 
 ## Article 1 : Les mentions légales
