@@ -9,12 +9,24 @@
       "title": "Graphiste",
       "content": [
         "Conception de A à  Z de la charte graphique de la marque.",
-        "Élaboration d’une Direction artistiques atractive pour le domaine.",
+        "Élaboration d’une Direction artistiques attractive pour le domaine.",
         "Gestion de la communication du projet."
 
       ],
       "tags": [
         "Charte Graphique"
+      ]
+    },
+    {
+      "company": "Cesa",
+      "date": "Juil 2023 - Déc 2023 · Temps plein",
+      "location": "Paris, France",
+      "title": "Électricien",
+      "content": [
+        "Rénovation d'un hôpital sur l'infrastructure électrique."
+      ],
+      "tags": [
+        "Entreprise"
       ]
     }
   ]
