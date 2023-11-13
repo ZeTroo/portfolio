@@ -1,5 +1,5 @@
 %%banner=https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/blog/jobfollow/cover.png%%
-%%name=Discover JobFollow.%%
+%%name=Discover JobFollow%%
 %%urlName=jobfollow%%
 %%tags=Community%%
 %%date=2023-10-28%%

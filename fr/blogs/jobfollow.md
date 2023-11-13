@@ -27,5 +27,4 @@ En résumé, JobFollow se positionne comme une avancée majeure dans la manière
 - [Twitter](https://twitter.com/JobFollow_fr)
 - [Instagram](https://www.instagram.com/jobfollow_fr/)
 
-
 ![Bannière](https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/blog/jobfollow/social.png)
