@@ -3,18 +3,15 @@
   "subTitle": "PARCOURS PROFESSIONNEL",
   "stories": [
     {
-      "company": "UmboFrance",
-      "date": "Nov 2022 - Janv 2023 · Temps partiel",
+      "company": "Fouassin (CDI)",
+      "date": "Janv 2024 · Temps plein",
       "location": "Paris, France",
-      "title": "Graphiste",
+      "title": "Électricien",
       "content": [
-        "Conception de A à  Z de la charte graphique de la marque.",
-        "Élaboration d’une Direction artistiques attractive pour le domaine.",
-        "Gestion de la communication du projet."
-
+        "Courant fort et courant faible."
       ],
       "tags": [
-        "Charte Graphique"
+        "Entreprise"
       ]
     },
     {
@@ -30,15 +27,18 @@
       ]
     },
     {
-      "company": "Fouassin (CDI)",
-      "date": "Janv 2024 · Temps plein",
+      "company": "UmboFrance",
+      "date": "Nov 2022 - Janv 2023 · Temps partiel",
       "location": "Paris, France",
-      "title": "Électricien",
+      "title": "Graphiste",
       "content": [
-        "Courant fort et courant faible."
+        "Conception de A à  Z de la charte graphique de la marque.",
+        "Élaboration d’une Direction artistiques attractive pour le domaine.",
+        "Gestion de la communication du projet."
+
       ],
       "tags": [
-        "Entreprise"
+        "Charte Graphique"
       ]
     }
   ]

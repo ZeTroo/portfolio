@@ -3,17 +3,15 @@
   "subTitle": "PPROFESSIONAL CAREER",
   "stories": [
     {
-      "company": "UmboFrance",
-      "date": "Nov 2022 - Janv 2023 · Part-time",
+      "company": "Fouassin (CDI)",
+      "date": "Janv 2024 · Temps plein",
       "location": "Paris, France",
-      "title": "Graphic designer",
+      "title": "Electrician",
       "content": [
-        "End-to-end design of the brand's graphic identity.",
-        "Development of an attractive artistic direction for the domain.",
-        "Management of project communication."
+        "Strong current and weak current."
       ],
       "tags": [
-        "Branding"
+        "Entreprise"
       ]
     },
     {
@@ -29,15 +27,17 @@
       ]
     },
     {
-      "company": "Fouassin (CDI)",
-      "date": "Janv 2024 · Temps plein",
+      "company": "UmboFrance",
+      "date": "Nov 2022 - Janv 2023 · Part-time",
       "location": "Paris, France",
-      "title": "Electrician",
+      "title": "Graphic designer",
       "content": [
-        "Strong current and weak current."
+        "End-to-end design of the brand's graphic identity.",
+        "Development of an attractive artistic direction for the domain.",
+        "Management of project communication."
       ],
       "tags": [
-        "Entreprise"
+        "Branding"
       ]
     }
   ]
