@@ -18,12 +18,24 @@
       ]
     },
     {
-      "company": "Cesa",
+      "company": "Cesa (CDD)",
       "date": "Juil 2023 - Déc 2023 · Temps plein",
       "location": "Paris, France",
       "title": "Électricien",
       "content": [
         "Rénovation d'un hôpital sur l'infrastructure électrique."
+      ],
+      "tags": [
+        "Entreprise"
+      ]
+    },
+    {
+      "company": "Fouassin (CDI)",
+      "date": "Janv 2024 · Temps plein",
+      "location": "Paris, France",
+      "title": "Électricien",
+      "content": [
+        "Courant fort et courant faible."
       ],
       "tags": [
         "Entreprise"
