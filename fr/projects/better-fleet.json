@@ -1,0 +1,99 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/better-fleet/cover.png",
+  "name": "Better Fleet",
+  "url": "better-fleet",
+  "date": "2024-02-26",
+  "tags": [
+    "Logotype",
+    "Charte Graphique",
+    "Design Web"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Better Fleet",
+      "description": "Better Fleet est une application dédiée à aider les joueurs de Sea of Thieves à créer plus facilement des serveurs d'alliance dans le jeu. Ce projet est entièrement open source !",
+      "tags": [
+        "Logotype",
+        "Charte Graphique",
+        "Design Web"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/better-fleet/bf_logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "C'est quoi Better Fleet ?",
+      "text": "Better Fleet est une application open source conçue pour aider les joueurs de Sea of Thieves à créer des serveurs d'alliance plus facilement. Elle permet aux utilisateurs de se coordonner et de former des alliances dans le jeu, facilitant ainsi les interactions et la collaboration. L'application vise à améliorer l'expérience de jeu en rendant la création de serveurs d'alliance plus accessible et efficace. Elle comprend une partie principale, qui est le noyau complexe et long à développer, et une interface utilisateur essentielle pour représenter l'image de Better Fleet et guider les joueurs."
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logotype",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/better-fleet/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Application",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/better-fleet/design_app_1.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Site Web",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/better-fleet/design_app_2.png"
+    },
+    {
+      "type": "Contributor",
+      "title": "Les créateurs",
+      "contributors": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zetro.png",
+          "name": "Zetro",
+          "tags": [
+            "Designer", "Graphiste"
+          ]
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/zelytra.png",
+          "name": "Zelytra",
+          "tags": [
+            "Développeur"
+          ]
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/dadodasyra.gif",
+          "name": "Dadodasyra",
+          "tags": [
+            "Développeur"
+          ]
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/contributeurs/ichabodt.png",
+          "name": "Ichabodt",
+          "tags": [
+            "Traducteur"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+          "name": "Discord",
+          "link": "https://discord.gg/JjBgKVkBfK"
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/link.png",
+          "name": "Site Web",
+          "link": "https://betterfleet.fr/"
+        },
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/globe.png",
+          "name": "Github",
+          "link": "https://github.com/zelytra/BetterFleet"
+        }
+      ]
+    }
+  ]
+}
