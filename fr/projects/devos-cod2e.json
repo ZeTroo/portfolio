@@ -1,0 +1,48 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/cover.png",
+  "name": "De2222de",
+  "url": "devos-co2de",
+  "date": "2022-04-16",
+  "tags": [
+    "Logotype"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Devos Code",
+      "description": "Devos Code est une communauté Discord dynamique qui met l'accent sur l'entraide et le partage de connaissances dans le domaine de la programmation. Depuis sa création, cette communauté s'est développée rapidement et compte aujourd'hui fièrement plus de 2600 membres.",
+      "tags": [
+        "Logotype"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/logo.png"
+    },
+    {
+      "type": "BasicText",
+      "title": "Ce qu'il faut savoir de Devos Code",
+      "text": "Devos Code est une communauté Discord dynamique et conviviale qui met l'accent sur l'entraide et le partage de connaissances dans le domaine de la programmation. Depuis sa création, cette communauté s'est développée rapidement et compte aujourd'hui fièrement plus de 2600 membres passionnés. Que vous soyez un novice curieux, un étudiant avide d'apprendre ou un développeur chevronné, vous trouverez chez Devos Code un environnement accueillant où vous pourrez poser des questions, échanger des idées, et collaborer avec des personnes partageant les mêmes intérêts.\nLes membres de la communauté sont ouverts et prêts à offrir leur expertise pour vous aider à surmonter les défis de programmation, que ce soit dans les langages populaires comme Python, Java, JavaScript, ou dans des domaines plus spécialisés tels que l'intelligence artificielle, le développement web, ou les applications mobiles. Plongez dans un monde de codage collaboratif, d'apprentissage continu et d'épanouissement professionnel !"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "text": "Dans le but d'attirer l'attention des visiteurs de manière optimale, j'ai consciemment utilisé des couleurs assez vibrantes et accrocheuses pour concevoir le logo. Lors du processus de création, j'ai privilégié l'utilisation du rouge et d'une nuance de beige comme couleurs principales, lesquelles ont été habilement combinées pour former un dégradé harmonieux. Le choix du rouge apporte une sensation d'énergie, d'urgence et de passion, tandis que le beige offre une note de chaleur et d'élégance. Ces deux couleurs se complètent et créent une combinaison visuelle dynamique qui capte facilement le regard. Pour souligner et mettre en valeur davantage les couleurs du logo, j'ai opté pour une couleur secondaire sobre, à savoir le blanc, pour le fond. Cette décision stratégique a été prise dans le but de créer un contraste saisissant et d'assurer une lisibilité optimale du logo, en mettant l'accent sur les couleurs principales.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Conception du logo",
+      "text": "Lors de la conception de ce logo, j'ai privilégié un style classique qui met en valeur les initiales du projet, à savoir les lettres \"D\" et \"C\". J'ai consacré du temps et de l'attention à leur agencement, cherchant à créer une composition harmonieuse et esthétiquement plaisante. En fusionnant les lettres \"D\" et \"C\" de manière astucieuse, j'ai réussi à donner au logo une identité unique et reconnaissable. La combinaison des formes et des contours des lettres a été réalisée avec soin, dans le but de créer une composition équilibrée et visuellement attrayante. Le choix d'un style classique pour ce logo apporte une touche intemporelle et élégante, tout en véhiculant un sentiment de confiance et de professionnalisme. Les initiales du projet, soigneusement conçues et assemblées, capturent l'essence de l'identité de la marque de manière concise et mémorable.",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/devos-code/logotype.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+          "name": "Discord",
+          "link": "https://discord.gg/devos-code-759432409400999967"
+        }
+      ]
+    }
+  ]
+}
