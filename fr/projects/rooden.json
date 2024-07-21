@@ -35,11 +35,6 @@
     },
     {
       "type": "BigImageText",
-      "title": "Conception du logo",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/logotype.png"
-    },
-    {
-      "type": "BigImageText",
       "title": "Bannières",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/banner.png"
     }
