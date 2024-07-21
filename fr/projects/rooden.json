@@ -1,0 +1,58 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/cover.png",
+  "name": "Rooden",
+  "url": "rooden",
+  "date": "2024-05-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Rooden",
+      "description": "J'ai conçu cette charte graphique pour une entreprise spécialisée dans l'hébergement de divers jeux vidéo.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Conception du logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Police d'écriture",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/font.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Conception du logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/banner.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leurs réseaux ci-dessous",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
+          "name": "Discord",
+          "link": "https://discord.gg/devos-code-759432409400999967"
+        }
+      ]
+    }
+  ]
+}
