@@ -42,17 +42,6 @@
       "type": "BigImageText",
       "title": "Bannières",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/banner.png"
-    },
-    {
-      "type": "ExternalLinks",
-      "title": "Découvrez leurs réseaux ci-dessous",
-      "links": [
-        {
-          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/discord.png",
-          "name": "Discord",
-          "link": "https://discord.gg/devos-code-759432409400999967"
-        }
-      ]
     }
   ]
 }
