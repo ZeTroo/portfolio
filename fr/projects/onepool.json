@@ -1,0 +1,34 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/cover.png",
+  "name": "OnePool",
+  "url": "onepool",
+  "date": "2024-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique",
+    "Design Web"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "OnePool",
+      "description": "Création d'un logo, d'une charte graphique et d'une maquette web pour une application dédiée à la gestion des parties de billard.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique",
+        "Design Web"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/colors.png"
+    }
+  ]
+}
