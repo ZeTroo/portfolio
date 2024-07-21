@@ -1,0 +1,30 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/parzival/cover.png",
+  "name": "Parzival",
+  "url": "parzival",
+  "date": "2023-11-20",
+  "tags": [
+    "Logotype"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Parzival",
+      "description": "Réalisation d'un logo personnalisé pour un client dans le cadre de son identité visuelle..",
+      "tags": [
+        "Logotype"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/parzival/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Lgo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/parzival/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/parzival/colors.png"
+    }
+  ]
+}
