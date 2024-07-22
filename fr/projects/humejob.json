@@ -1,0 +1,37 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/humejob/cover.png",
+  "name": "HumeJob",
+  "url": "humejob",
+  "date": "2023-12-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "HumeJob",
+      "description": "J'ai conçu ce logo pour une entreprise spécialisée dans les ressources humaines, visant à refléter son expertise et son engagement envers la gestion des talents et des relations professionnelles.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/humejob/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/humejob/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/humejob/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/humejob/banner.png"
+    }
+  ]
+}
