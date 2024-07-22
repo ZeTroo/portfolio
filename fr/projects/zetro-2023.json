@@ -1,0 +1,32 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2023/cover.png",
+  "name": "ZeTro (2023)",
+  "url": "zetro-2023",
+  "date": "2023-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "ZeTro (2023)",
+      "description": "J'ai réalisé ce logo pour mon identité et, cette année-là, j'ai voulu essayer un nouveau style qui me représentait mieux, tout en restant fidèle au style de logo que je créais à cette époque.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2023/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2023/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2023/banner.png"
+    }
+  ]
+}
