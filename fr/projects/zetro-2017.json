@@ -1,0 +1,28 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2017/cover.png",
+  "name": "ZeTro (2017)",
+  "url": "zetro-2017",
+  "date": "2017-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "ZeTro (2017)",
+      "description": "Voici mon tout premier logo, que j'ai réalisé pour moi en 2017, à mes débuts dans le graphisme. Quel beau souvenir, nostalgie...",
+      "tags": [
+        "Logotype",
+        "Charte Graphique",
+        "Design Web"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2017/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2017/logotype.png"
+    }
+  ]
+}
