@@ -1,0 +1,33 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/cover.png",
+  "name": "ZeTro (2020)",
+  "url": "zetro-2020",
+  "date": "2020-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "ZeTro (2020)",
+      "description": "Voici la charte graphique que j'ai réalisée en 2020, que je vous présente aujourd'hui pour montrer mon travail précédent.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique",
+        "Design Web"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2020/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2020/cg.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannière de l'application",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2020/banner.png"
+    }
+  ]
+}
