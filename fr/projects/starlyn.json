@@ -1,0 +1,42 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/cover.png",
+  "name": "Starlyn",
+  "url": "starlyn",
+  "date": "2024-01-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Starlyn",
+      "description": "Cette charte graphique a été conçue pour une communauté désirant développer du holding.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Échantillons logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/listelogo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/starlyn/banner.png"
+    }
+  ]
+}
