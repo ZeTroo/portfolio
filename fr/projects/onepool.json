@@ -34,6 +34,11 @@
       "type": "BigImageText",
       "title": "Application",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/app.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannière de l'application",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/banner.png"
     }
   ]
 }
