@@ -1,0 +1,32 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2018/cover.png",
+  "name": "ZeTro (2018)",
+  "url": "zetro-2018",
+  "date": "2018-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "ZeTro (2018)",
+      "description": "Voici mon deuxième logo, que j'ai réalisé pour moi-même. Je pense qu'au cours des premières années, je cherchais mon identité en essayant plusieurs styles, y compris ce style un peu graffiti.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2018/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2018/cg.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2018/listelogo.png"
+    }
+  ]
+}
