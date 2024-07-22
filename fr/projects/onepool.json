@@ -29,6 +29,11 @@
       "type": "BigImageText",
       "title": "Élaboration des couleurs",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Application",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/onepool/app.png"
     }
   ]
 }
