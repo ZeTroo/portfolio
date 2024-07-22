@@ -1,0 +1,32 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2019/cover.png",
+  "name": "ZeTro (2019)",
+  "url": "zetro-2019",
+  "date": "2019-06-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "ZeTro (2019)",
+      "description": "J'ai réalisé ce logo pour mon identité personnelle en 2019, en conservant le style de son prédécesseur tout en ajoutant une touche de nouveauté avec un design actualisé.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2019/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2019/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/zetro/2019/banner.png"
+    }
+  ]
+}
