@@ -37,6 +37,17 @@
       "type": "BigImageText",
       "title": "Bannières",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/banner.png"
+    },
+    {
+      "type": "ExternalLinks",
+      "title": "Découvrez leur projet ci-dessous",
+      "links": [
+        {
+          "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/icons/globe.png",
+          "name": "Github",
+          "link": "https://github.com/AlexisL61/BotsOn"
+        }
+      ]
     }
   ]
 }
