@@ -1,0 +1,42 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/cover.png",
+  "name": "BotsOn",
+  "url": "botson",
+  "date": "2024-05-02",
+  "tags": [
+    "Logotype",
+    "Charte Graphique"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "BotsOn",
+      "description": "J'ai réalisé cette charte graphique pour le projet BotsOn, dont le but est de créer une application Windows permettant à toute personne, même sans connaissances en programmation, de créer et d'héberger gratuitement leurs propres bots Discord.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Emoji",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/rooden/emotes.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/banner.png"
+    }
+  ]
+}
