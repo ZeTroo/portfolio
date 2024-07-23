@@ -1,0 +1,44 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/cover.png",
+  "name": "Le Terrier",
+  "url": "le-terrier",
+  "date": "2024-04-07",
+  "tags": [
+    "Logotype",
+    "Charte Graphique",
+    "Projets"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Le Terrier",
+      "description": "Conception d'une charte graphique pour une communauté Discord.",
+      "tags": [
+        "Logotype",
+        "Charte Graphique",
+        "Projets"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Élaboration des couleurs",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/colors.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/banner.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannières d'événement",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/le-terrier/banner-gift.png"
+    }
+  ]
+}
