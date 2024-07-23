@@ -1,0 +1,25 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/sot-alliance/cover.png",
+  "name": "SOT Alliance",
+  "url": "sot-alliance",
+  "date": "2023-11-20",
+  "tags": [
+    "Logotype"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "SOT Alliance",
+      "description": "J'ai conçu ce logo pour une communauté Discord appelée \"SOT Alliance\", qui permet d'organiser des alliances dans le jeu Sea of Thieves.",
+      "tags": [
+        "Logotype"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/sot-alliance/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/sot-alliance/logotype.png"
+    }
+  ]
+}

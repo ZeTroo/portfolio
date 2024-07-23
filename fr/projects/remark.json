@@ -1,0 +1,30 @@
+{
+  "banner": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/remark/cover.png",
+  "name": "Remark",
+  "url": "remark",
+  "date": "2024-03-20",
+  "tags": [
+    "Logotype"
+  ],
+  "contents": [
+    {
+      "type": "Title",
+      "title": "Remark",
+      "description": "J'ai conçu ce logo pour un client qui souhaite créer un studio de graphisme.",
+      "tags": [
+        "Logotype"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/remark/logo.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Logo",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/remark/logotype.png"
+    },
+    {
+      "type": "BigImageText",
+      "title": "Bannière",
+      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/remark/banner.png"
+    }
+  ]
+}
