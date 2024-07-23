@@ -20,11 +20,6 @@
     },
     {
       "type": "BigImageText",
-      "title": "Logo",
-      "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/logotype.png"
-    },
-    {
-      "type": "BigImageText",
       "title": "Élaboration des couleurs",
       "image": "https://raw.githubusercontent.com/ZeTro-dev/portfolio/main/.assets/projects/botson/colors.png"
     },
